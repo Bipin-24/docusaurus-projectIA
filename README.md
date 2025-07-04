@@ -2,49 +2,86 @@
 
 Welcome to the documentation site built with [Docusaurus 2](https://docusaurus.io/) – a modern static website generator optimized for documentation websites.
 
-## 🚀 Getting Started
 
-These instructions will help you set up and run this project locally on your machine.
+## 🦖 Running Docusaurus on Mac via VS Code
 
-### 📦 Prerequisites
+This guide walks you through installing and running a Docusaurus site locally using VS Code on macOS.
 
-Make sure you have the following installed:
+---
 
-- [Node.js](https://nodejs.org/) (version 16.x or later recommended)
-- npm (comes with Node.js)
-- [Git](https://git-scm.com/)
-- [VS Code](https://code.visualstudio.com/) (optional but recommended)
+### 🛠 Prerequisites
 
-### 🔧 Installation
+Before you begin, make sure the following are installed:
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-Install dependencies
+- **Node.js** (v16.14 or later)
+- **npm** (comes with Node.js)
+- **Git**
+- **VS Code**
 
-bash
-Copy
-Edit
+Check installation:
+
+```bash
+node -v
+npm -v
+git --version
+```
+
+### 📁 Step 1: Open Terminal & Create Project Directory
+
+```bash
+
+mkdir my-docusaurus-site
+cd my-docusaurus-site
+```
+
+### 🧱 Step 2: Scaffold Docusaurus Project
+
+Run the following to create a new site:
+
+```bash
+
+npx create-docusaurus@latest . classic  
+```
+
+### 💻 Step 3: Open in VS Code
+``` bash
+
+code .
+This opens the project in VS Code.
+```
+
+### 📦 Step 4: Install Dependencies (if not already)
+
+```bash
+  
 npm install
-Start the local development server
+```
 
-bash
-Copy
-Edit
-npm run start
-This will open the site at http://localhost:3000/.
+### 🚀 Step 5: Run Docusaurus Locally
+```bash
+ 
+npm run start  
 
-# 📁 Project Structure
-bash
-Copy
-Edit
-my-doc-site/
-├── blog/              # Blog posts (optional)
-├── docs/              # Documentation markdown files
-├── src/               # React components and pages
-├── static/            # Static assets (images, files)
-├── docusaurus.config.js  # Main site configuration
-├── sidebars.js        # Sidebar configuration for docs
-├── package.json       # Project dependencies and scripts
-└── README.md          # You're reading it!
+```
+
+This will start the dev server. Open your browser and go to:
+
+http://localhost:3000
+
+
+#### 📌 Notes 
+
+To build the site for production:  
+
+```bash  
+
+npm run build  
+
+```
+
+To serve the built site locally:
+
+```bash  
+
+npm run serve
+```
