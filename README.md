@@ -1,37 +1,50 @@
-# Actian Integration Platform Documentation
+# 📘 My Docusaurus Documentation Site
 
-We welcome and encourage your feedback on the platform and documentation. Feedback from the user community plays an important role in improving the product.
+Welcome to the documentation site built with [Docusaurus 2](https://docusaurus.io/) – a modern static website generator optimized for documentation websites.
 
-Let us know if:
+## 🚀 Getting Started
 
-* Anything is missing, unclear, or inaccurate in the documentation. 
-* There are topics you'd like to see.
-* You have suggestions for documentation improvements.
-* There's something that really helped and you'd like to see more of it!
+These instructions will help you set up and run this project locally on your machine.
 
-There are two ways to provide your feedback on the documentation: 
+### 📦 Prerequisites
 
-* Submit a message using the **Page Feedback** button.
-* Use the **Suggest Edits** button to edit the page in GitHub.
+Make sure you have the following installed:
 
-## Page Feedback
+- [Node.js](https://nodejs.org/) (version 16.x or later recommended)
+- npm (comes with Node.js)
+- [Git](https://git-scm.com/)
+- [VS Code](https://code.visualstudio.com/) (optional but recommended)
 
-Entering page feedback is easy, and available to anyone. There is a **Page Feedback** button on the bottom of every page:
+### 🔧 Installation
 
-  ![Page Feedback Button](./static/img/Feedback-Button.png)
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+Install dependencies
 
-Click this button to display a text field, enter your message, and click **Send Feedback**. Your message will be delivered to us. Feel free to include your email address in the message if you'd like to chat.
+bash
+Copy
+Edit
+npm install
+Start the local development server
 
-## Suggest Edits
+bash
+Copy
+Edit
+npm run start
+This will open the site at http://localhost:3000/.
 
-Users are encouraged to suggest content edits. Suggesting page edits requires you to have a GitHub account. 
-
-There is a **Suggest Edits** button on the bottom of every page:
-
-  ![Suggest Edits Button](./static/img/Suggest-Edits-Button.png)
-
-Clicking this button opens the page in the ActianCorp integration-platform-docs repository in GitHub:
-
-  ![Suggest Edits Button](./static/img/GitHub-Repo.png)
-
-Make any suggested edits, then create a pull request. We will review your changes, make any necessary edits, then merge the changes if appropriate.
+# 📁 Project Structure
+bash
+Copy
+Edit
+my-doc-site/
+├── blog/              # Blog posts (optional)
+├── docs/              # Documentation markdown files
+├── src/               # React components and pages
+├── static/            # Static assets (images, files)
+├── docusaurus.config.js  # Main site configuration
+├── sidebars.js        # Sidebar configuration for docs
+├── package.json       # Project dependencies and scripts
+└── README.md          # You're reading it!
