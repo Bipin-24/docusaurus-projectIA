@@ -1,0 +1,28 @@
+{
+  "id": "integration-agent/quickstart-install",
+  "title": "Quick Start Installation",
+  "description": "Windows Installation",
+  "source": "@site/docs/integration-agent/quickstart-install.md",
+  "sourceDirName": "integration-agent",
+  "slug": "/integration-agent/quickstart-install",
+  "permalink": "/portfolio/integration-agent/quickstart-install",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-agent/quickstart-install.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Quick Start Installation",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Integration Agent Overview",
+    "permalink": "/portfolio/integration-agent/agent-overview"
+  },
+  "next": {
+    "title": "Run Your First Remote Job",
+    "permalink": "/portfolio/integration-agent/run-your-first-remote-job"
+  }
+}

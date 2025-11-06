@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/APIs/jobconfig-file-listener-api",
+  "title": "JobConfig File Listener API",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/APIs/jobconfig-file-listener-api.md",
+  "sourceDirName": "integration-manager/APIs",
+  "slug": "/integration-manager/APIs/jobconfig-file-listener-api",
+  "permalink": "/portfolio/integration-manager/APIs/jobconfig-file-listener-api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/APIs/jobconfig-file-listener-api.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "JobConfig File Listener API"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Quick Start API Tutorial",
+    "permalink": "/portfolio/integration-manager/APIs/quickstart-api-tutorial"
+  },
+  "next": {
+    "title": "JobConfig Message Listener API",
+    "permalink": "/portfolio/integration-manager/APIs/jobconfig-message-listener-api"
+  }
+}

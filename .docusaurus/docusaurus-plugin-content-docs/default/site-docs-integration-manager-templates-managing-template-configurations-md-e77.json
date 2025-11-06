@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/templates/managing-template-configurations",
+  "title": "Managing Template Configurations",
+  "description": "Templates can be linked to a Configuration to reuse integration packages and other runtime settings automatically.",
+  "source": "@site/docs/integration-manager/templates/managing-template-configurations.md",
+  "sourceDirName": "integration-manager/templates",
+  "slug": "/integration-manager/templates/managing-template-configurations",
+  "permalink": "/portfolio/integration-manager/templates/managing-template-configurations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/templates/managing-template-configurations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Managing Template Configurations"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Managing Template Files",
+    "permalink": "/portfolio/integration-manager/templates/managing-template-files"
+  },
+  "next": {
+    "title": "Run Locations",
+    "permalink": "/portfolio/integration-manager/run-locations"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/access-control/jobconfig-aliasing",
+  "title": "JobConfig Listener Aliasing",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/admin/access-control/jobconfig-aliasing.md",
+  "sourceDirName": "integration-manager/admin/access-control",
+  "slug": "/integration-manager/admin/access-control/jobconfig-aliasing",
+  "permalink": "/portfolio/integration-manager/admin/access-control/jobconfig-aliasing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/access-control/jobconfig-aliasing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "JobConfig Listener Aliasing"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Access Control Policies",
+    "permalink": "/portfolio/integration-manager/admin/access-control/access-control-polices"
+  },
+  "next": {
+    "title": "Server Administration",
+    "permalink": "/portfolio/category/server-administration"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/server-administration/setup-rabbitmq",
+  "title": "RabbitMQ",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/admin/server-administration/setup-rabbitmq.md",
+  "sourceDirName": "integration-manager/admin/server-administration",
+  "slug": "/integration-manager/admin/server-administration/setup-rabbitmq",
+  "permalink": "/portfolio/integration-manager/admin/server-administration/setup-rabbitmq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/server-administration/setup-rabbitmq.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "RabbitMQ"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Microsoft SQL Server",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/setup-ms-sql-server"
+  },
+  "next": {
+    "title": "Zookeeper",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/setup-zookeeper"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "integration-manager/configurations/inactivating-configurations",
+  "title": "Inactivating Configurations",
+  "description": "Setting the configuration status to Inactive allows you to disable the configuration without deleting it. You can reactivate it later when needed by setting the status back to Active.",
+  "source": "@site/docs/integration-manager/configurations/inactivating-configurations.md",
+  "sourceDirName": "integration-manager/configurations",
+  "slug": "/integration-manager/configurations/inactivating-configurations",
+  "permalink": "/portfolio/integration-manager/configurations/inactivating-configurations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/configurations/inactivating-configurations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Inactivating Configurations"
+  }
+}

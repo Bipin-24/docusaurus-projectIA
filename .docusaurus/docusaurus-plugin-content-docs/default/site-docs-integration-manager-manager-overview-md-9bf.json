@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/manager-overview",
+  "title": "Integration Manager User Guide",
+  "description": "This section describes how to use Actian Integration Manager, an elastic cloud-based platform that enables the design, deployment, and management of web-based integrations.",
+  "source": "@site/docs/integration-manager/manager-overview.md",
+  "sourceDirName": "integration-manager",
+  "slug": "/integration-manager/manager-overview",
+  "permalink": "/portfolio/integration-manager/manager-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/manager-overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration Manager User Guide"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Editing Your Profile",
+    "permalink": "/portfolio/editing-your-profile"
+  },
+  "next": {
+    "title": "Configurations Overview",
+    "permalink": "/portfolio/integration-manager/configurations/configurations-overview"
+  }
+}

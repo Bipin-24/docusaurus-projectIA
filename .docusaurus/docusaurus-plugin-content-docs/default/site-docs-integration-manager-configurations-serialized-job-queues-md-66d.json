@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/configurations/serialized-job-queues",
+  "title": "Serialized Job Queues",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/configurations/serialized-job-queues.md",
+  "sourceDirName": "integration-manager/configurations",
+  "slug": "/integration-manager/configurations/serialized-job-queues",
+  "permalink": "/portfolio/integration-manager/configurations/serialized-job-queues",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/configurations/serialized-job-queues.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Serialized Job Queues"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Editing Configuration Schedules",
+    "permalink": "/portfolio/integration-manager/configurations/editing-configuration-schedules"
+  },
+  "next": {
+    "title": "DataFlow Job Configs",
+    "permalink": "/portfolio/integration-manager/configurations/dataflow-usage"
+  }
+}

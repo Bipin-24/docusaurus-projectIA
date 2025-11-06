@@ -1,0 +1,19 @@
+{
+  "id": "resume",
+  "title": "Resume",
+  "description": "Bipin Pandey — Resume (summary)",
+  "source": "@site/docs/resume.md",
+  "sourceDirName": ".",
+  "slug": "/resume",
+  "permalink": "/portfolio/resume",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/resume.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Resume",
+    "description": "Bipin Pandey — Resume (summary)"
+  }
+}

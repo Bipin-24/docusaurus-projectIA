@@ -1,0 +1,25 @@
+{
+  "id": "search-optimization-ai",
+  "title": "Search Optimization using AI",
+  "description": "AI helps improve content search accuracy through:",
+  "source": "@site/docs/search-optimization-ai.md",
+  "sourceDirName": ".",
+  "slug": "/search-optimization-ai",
+  "permalink": "/portfolio/search-optimization-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/search-optimization-ai.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Content Classification",
+    "permalink": "/portfolio/content-classification"
+  },
+  "next": {
+    "title": "Knowledge Graphs in Documentation",
+    "permalink": "/portfolio/knowledge-graphs"
+  }
+}

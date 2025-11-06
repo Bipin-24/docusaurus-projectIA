@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/configurations/dataflow-usage",
+  "title": "DataFlow Job Configs",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/configurations/dataflow-usage.md",
+  "sourceDirName": "integration-manager/configurations",
+  "slug": "/integration-manager/configurations/dataflow-usage",
+  "permalink": "/portfolio/integration-manager/configurations/dataflow-usage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/configurations/dataflow-usage.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "DataFlow Job Configs"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Serialized Job Queues",
+    "permalink": "/portfolio/integration-manager/configurations/serialized-job-queues"
+  },
+  "next": {
+    "title": "Creating Templates",
+    "permalink": "/portfolio/integration-manager/templates/creating-templates"
+  }
+}

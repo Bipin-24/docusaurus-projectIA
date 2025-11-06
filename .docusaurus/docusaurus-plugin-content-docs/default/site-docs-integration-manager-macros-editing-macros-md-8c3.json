@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/macros/editing-macros",
+  "title": "Editing Macros",
+  "description": "Only admin users can edit Public macros.",
+  "source": "@site/docs/integration-manager/macros/editing-macros.md",
+  "sourceDirName": "integration-manager/macros",
+  "slug": "/integration-manager/macros/editing-macros",
+  "permalink": "/portfolio/integration-manager/macros/editing-macros",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/macros/editing-macros.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Editing Macros"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Importing Macros",
+    "permalink": "/portfolio/integration-manager/macros/importing-macros"
+  },
+  "next": {
+    "title": "Using LOCAL_JOB_SPEC_DIR",
+    "permalink": "/portfolio/integration-manager/macros/using-LOCAL_JOB_SPEC_DIR"
+  }
+}

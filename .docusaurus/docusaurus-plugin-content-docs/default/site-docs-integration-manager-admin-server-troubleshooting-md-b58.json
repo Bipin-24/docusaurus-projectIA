@@ -1,0 +1,18 @@
+{
+  "id": "integration-manager/admin/server-troubleshooting",
+  "title": "Troubleshooting",
+  "description": "Application Failed to Start",
+  "source": "@site/docs/integration-manager/admin/server-troubleshooting.md",
+  "sourceDirName": "integration-manager/admin",
+  "slug": "/integration-manager/admin/server-troubleshooting",
+  "permalink": "/portfolio/integration-manager/admin/server-troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/server-troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Troubleshooting"
+  }
+}

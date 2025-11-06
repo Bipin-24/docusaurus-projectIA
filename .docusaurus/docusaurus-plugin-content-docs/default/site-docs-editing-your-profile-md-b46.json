@@ -1,0 +1,27 @@
+{
+  "id": "editing-your-profile",
+  "title": "Editing Your Profile",
+  "description": "The My Profile page enables you to set the password you use to login to the Actian platform and to authenticate for direct API access.",
+  "source": "@site/docs/editing-your-profile.md",
+  "sourceDirName": ".",
+  "slug": "/editing-your-profile",
+  "permalink": "/portfolio/editing-your-profile",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/editing-your-profile.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Editing Your Profile"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/portfolio/dashboard"
+  },
+  "next": {
+    "title": "Integration Manager User Guide",
+    "permalink": "/portfolio/integration-manager/manager-overview"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "career-timeline",
+  "title": "Career Timeline",
+  "description": "- 2024–Present: Information Architect, Actian",
+  "source": "@site/docs/career-timeline.md",
+  "sourceDirName": ".",
+  "slug": "/career-timeline",
+  "permalink": "/portfolio/career-timeline",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/career-timeline.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Content Performance Dashboard",
+    "permalink": "/portfolio/content-performance-dashboard"
+  },
+  "next": {
+    "title": "Projects Showcase",
+    "permalink": "/portfolio/projects-showcase"
+  }
+}

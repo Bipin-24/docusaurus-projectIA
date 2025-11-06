@@ -1,0 +1,14 @@
+{
+  "id": "about",
+  "title": "About Me",
+  "description": "Hi, I’m Bipin Pandey — an Information Architect and Strategic Content Manager passionate about building intelligent documentation ecosystems.",
+  "source": "@site/docs/about.md",
+  "sourceDirName": ".",
+  "slug": "/about",
+  "permalink": "/about/about",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "content-strategy",
+  "title": "Content Strategy",
+  "description": "My strategy aligns content goals with business and user needs.",
+  "source": "@site/docs/content-strategy.md",
+  "sourceDirName": ".",
+  "slug": "/content-strategy",
+  "permalink": "/portfolio/content-strategy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/content-strategy.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Knowledge Graphs in Documentation",
+    "permalink": "/portfolio/knowledge-graphs"
+  },
+  "next": {
+    "title": "Governance Models",
+    "permalink": "/portfolio/governance-models"
+  }
+}

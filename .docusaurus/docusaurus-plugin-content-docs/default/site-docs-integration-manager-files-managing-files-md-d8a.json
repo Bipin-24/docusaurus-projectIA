@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/files/managing-files",
+  "title": "Managing Files",
+  "description": "You can upload and manage files for use with your configurations and templates. These can be private files or public files.",
+  "source": "@site/docs/integration-manager/files/managing-files.md",
+  "sourceDirName": "integration-manager/files",
+  "slug": "/integration-manager/files/managing-files",
+  "permalink": "/portfolio/integration-manager/files/managing-files",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/files/managing-files.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Managing Files"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Securing Macros",
+    "permalink": "/portfolio/integration-manager/macros/securing-macros"
+  },
+  "next": {
+    "title": "Quick Start API Tutorial",
+    "permalink": "/portfolio/integration-manager/APIs/quickstart-api-tutorial"
+  }
+}

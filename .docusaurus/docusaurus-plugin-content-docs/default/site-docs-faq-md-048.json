@@ -1,0 +1,18 @@
+{
+  "id": "faq",
+  "title": "FAQ",
+  "description": "This page is a work in progress that aims to answer some of the most commonly-asked questions about the Actian Integration Platform. Your feedback will greatly help us identify areas in the product and documentation that need attention, and which questions we will add to this page.",
+  "source": "@site/docs/faq.md",
+  "sourceDirName": ".",
+  "slug": "/faq",
+  "permalink": "/portfolio/faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/faq.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "FAQ"
+  }
+}

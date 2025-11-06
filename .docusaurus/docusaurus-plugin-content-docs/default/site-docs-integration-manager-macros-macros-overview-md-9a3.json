@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/macros/macros-overview",
+  "title": "Macros Overview",
+  "description": "Macros enable you to run a single integration for different types of users without having to modify the integration itself. Macros are defined when the integration is in the configuration state. Macros can save you time and reduce errors at runtime.",
+  "source": "@site/docs/integration-manager/macros/macros-overview.md",
+  "sourceDirName": "integration-manager/macros",
+  "slug": "/integration-manager/macros/macros-overview",
+  "permalink": "/portfolio/integration-manager/macros/macros-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/macros/macros-overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Macros Overview"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Subscribing to Job Notifications",
+    "permalink": "/portfolio/integration-manager/jobs/subscribing-to-job-notifications"
+  },
+  "next": {
+    "title": "Creating Macros",
+    "permalink": "/portfolio/integration-manager/macros/creating-macros"
+  }
+}

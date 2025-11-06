@@ -1,0 +1,28 @@
+{
+  "id": "integration-manager/admin/application-property-reference/dataconnect-properties",
+  "title": "DataConnect Properties",
+  "description": "Refer to the following table for available DataConnect properties:",
+  "source": "@site/docs/integration-manager/admin/application-property-reference/dataconnect-properties.md",
+  "sourceDirName": "integration-manager/admin/application-property-reference",
+  "slug": "/integration-manager/admin/application-property-reference/dataconnect-properties",
+  "permalink": "/portfolio/integration-manager/admin/application-property-reference/dataconnect-properties",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/application-property-reference/dataconnect-properties.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "DataConnect Properties",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Application Property Reference",
+    "permalink": "/portfolio/integration-manager/admin/application-property-reference/properties-overview"
+  },
+  "next": {
+    "title": "DataFlow Properties",
+    "permalink": "/portfolio/integration-manager/admin/application-property-reference/dataflow-properties"
+  }
+}

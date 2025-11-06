@@ -1,0 +1,27 @@
+{
+  "id": "integration-agent/on-prem-data/accessing-on-premise-storage",
+  "title": "Accessing On-Premise Storage",
+  "description": "A common scenario for using DataCloud Agent to execute an integration is when you need to read or write a file stored either locally or on a network.",
+  "source": "@site/docs/integration-agent/on-prem-data/accessing-on-premise-storage.md",
+  "sourceDirName": "integration-agent/on-prem-data",
+  "slug": "/integration-agent/on-prem-data/accessing-on-premise-storage",
+  "permalink": "/portfolio/integration-agent/on-prem-data/accessing-on-premise-storage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-agent/on-prem-data/accessing-on-premise-storage.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Accessing On-Premise Storage"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Monitoring Agent Status",
+    "permalink": "/portfolio/integration-agent/monitoring-agent-status"
+  },
+  "next": {
+    "title": "Connecting to MS SQL Server",
+    "permalink": "/portfolio/integration-agent/on-prem-data/connecting-to-ms-sql-server"
+  }
+}

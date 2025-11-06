@@ -1,0 +1,27 @@
+{
+  "id": "accessing-the-integration-manager",
+  "title": "Accessing the Integration Manager",
+  "description": "The first time you log in to Integration Manager as an administrator, you will use the default administrator login username and password (admin/admin). We strongly recommended that you change the admin password. Refer to Editing Your Profile.",
+  "source": "@site/docs/accessing-the-integration-manager.md",
+  "sourceDirName": ".",
+  "slug": "/accessing-the-integration-manager",
+  "permalink": "/portfolio/accessing-the-integration-manager",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/accessing-the-integration-manager.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Accessing the Integration Manager"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Quick Start Installation",
+    "permalink": "/portfolio/integration-manager/quickstart-install"
+  },
+  "next": {
+    "title": "Dashboard",
+    "permalink": "/portfolio/dashboard"
+  }
+}

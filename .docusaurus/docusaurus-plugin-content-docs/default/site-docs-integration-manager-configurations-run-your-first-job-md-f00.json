@@ -1,0 +1,18 @@
+{
+  "id": "integration-manager/configurations/run-your-first-job",
+  "title": "Run Your First Job",
+  "description": "JG Feedback - Initially I thought this should be moved to the 'Jobs' section but it looks like it should be combined with the other doc 'creating-configurations.md'. Each of these doc files contains essential info for creating configurations.",
+  "source": "@site/docs/integration-manager/configurations/run-your-first-job.md",
+  "sourceDirName": "integration-manager/configurations",
+  "slug": "/integration-manager/configurations/run-your-first-job",
+  "permalink": "/portfolio/integration-manager/configurations/run-your-first-job",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/configurations/run-your-first-job.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Run Your First Job"
+  }
+}

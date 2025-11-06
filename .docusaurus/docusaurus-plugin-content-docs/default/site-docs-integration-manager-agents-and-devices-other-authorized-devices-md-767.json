@@ -1,0 +1,18 @@
+{
+  "id": "integration-manager/agents-and-devices/other-authorized-devices",
+  "title": "Other Authorized Devices",
+  "description": "The Other Authorized Devices list is visible to administrators. Items listed are typically file folder listeners, but can be anything that has been set up via Device Flow.",
+  "source": "@site/docs/integration-manager/agents-and-devices/other-authorized-devices.md",
+  "sourceDirName": "integration-manager/agents-and-devices",
+  "slug": "/integration-manager/agents-and-devices/other-authorized-devices",
+  "permalink": "/portfolio/integration-manager/agents-and-devices/other-authorized-devices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/agents-and-devices/other-authorized-devices.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Other Authorized Devices"
+  }
+}

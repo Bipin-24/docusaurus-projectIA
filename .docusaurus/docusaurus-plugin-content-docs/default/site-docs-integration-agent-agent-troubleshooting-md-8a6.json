@@ -1,0 +1,23 @@
+{
+  "id": "integration-agent/agent-troubleshooting",
+  "title": "Agent Troubleshooting",
+  "description": "Agent Fails to Start",
+  "source": "@site/docs/integration-agent/agent-troubleshooting.md",
+  "sourceDirName": "integration-agent",
+  "slug": "/integration-agent/agent-troubleshooting",
+  "permalink": "/portfolio/integration-agent/agent-troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-agent/agent-troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Agent Troubleshooting"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Connecting to Other Environments",
+    "permalink": "/portfolio/integration-agent/advanced-topics/connecting-to-other-environments"
+  }
+}

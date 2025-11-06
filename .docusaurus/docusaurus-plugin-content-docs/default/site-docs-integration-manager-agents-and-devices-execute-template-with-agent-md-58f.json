@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/agents-and-devices/execute-template-with-agent",
+  "title": "Executing a Template with an Agent",
+  "description": "To set a template to execute using an agent:",
+  "source": "@site/docs/integration-manager/agents-and-devices/execute-template-with-agent.md",
+  "sourceDirName": "integration-manager/agents-and-devices",
+  "slug": "/integration-manager/agents-and-devices/execute-template-with-agent",
+  "permalink": "/portfolio/integration-manager/agents-and-devices/execute-template-with-agent",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/agents-and-devices/execute-template-with-agent.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Executing a Template with an Agent"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Executing a Configuration with an Agent",
+    "permalink": "/portfolio/integration-manager/agents-and-devices/execute-config-with-agent"
+  },
+  "next": {
+    "title": "Integration Manager Administration Guide",
+    "permalink": "/portfolio/integration-manager/admin/admin-overview"
+  }
+}

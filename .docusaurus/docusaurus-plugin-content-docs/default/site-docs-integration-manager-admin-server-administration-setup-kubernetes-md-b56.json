@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/server-administration/setup-kubernetes",
+  "title": "Kubernetes",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/admin/server-administration/setup-kubernetes.md",
+  "sourceDirName": "integration-manager/admin/server-administration",
+  "slug": "/integration-manager/admin/server-administration/setup-kubernetes",
+  "permalink": "/portfolio/integration-manager/admin/server-administration/setup-kubernetes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/server-administration/setup-kubernetes.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Kubernetes"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Zookeeper",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/setup-zookeeper"
+  },
+  "next": {
+    "title": "Server Upgrades",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/server-upgrades"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/file-listener/file-listener-overview",
+  "title": "File Listener Services Overview",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/file-listener/file-listener-overview.md",
+  "sourceDirName": "integration-manager/file-listener",
+  "slug": "/integration-manager/file-listener/file-listener-overview",
+  "permalink": "/portfolio/integration-manager/file-listener/file-listener-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/file-listener/file-listener-overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "File Listener Services Overview"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Connecting to MS SQL Server",
+    "permalink": "/portfolio/integration-agent/on-prem-data/connecting-to-ms-sql-server"
+  },
+  "next": {
+    "title": "File Folder Listener Example",
+    "permalink": "/portfolio/integration-manager/file-listener/file-listener-local"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/macros/using-preinstalled-driver-macros",
+  "title": "Using Pre-Installed Driver Macros",
+  "description": "Integration Manager provides pre-installed JDBC drivers from different vendors. You can use those drivers by specifying the supported macros listed below for each driver type.",
+  "source": "@site/docs/integration-manager/macros/using-preinstalled-driver-macros.md",
+  "sourceDirName": "integration-manager/macros",
+  "slug": "/integration-manager/macros/using-preinstalled-driver-macros",
+  "permalink": "/portfolio/integration-manager/macros/using-preinstalled-driver-macros",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/macros/using-preinstalled-driver-macros.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Using Pre-Installed Driver Macros"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Using LOCAL_JOB_SPEC_DIR",
+    "permalink": "/portfolio/integration-manager/macros/using-LOCAL_JOB_SPEC_DIR"
+  },
+  "next": {
+    "title": "Securing Macros",
+    "permalink": "/portfolio/integration-manager/macros/securing-macros"
+  }
+}

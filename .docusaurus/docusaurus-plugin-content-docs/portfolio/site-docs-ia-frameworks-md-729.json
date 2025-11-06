@@ -1,0 +1,25 @@
+{
+  "id": "ia-frameworks",
+  "title": "IA Frameworks",
+  "description": "I develop IA frameworks that scale across documentation sets and product lines.",
+  "source": "@site/docs/ia-frameworks.md",
+  "sourceDirName": ".",
+  "slug": "/ia-frameworks",
+  "permalink": "/portfolio/ia-frameworks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/ia-frameworks.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Information Architecture Strategy",
+    "permalink": "/portfolio/ia-strategy"
+  },
+  "next": {
+    "title": "Metadata & Taxonomy Design",
+    "permalink": "/portfolio/metadata-taxonomy"
+  }
+}

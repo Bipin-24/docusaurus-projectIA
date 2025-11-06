@@ -1,0 +1,28 @@
+{
+  "id": "copyright",
+  "title": "Copyright Information",
+  "description": "Copyright © 2025 Actian Corporation. All Rights Reserved.",
+  "source": "@site/docs/copyright.md",
+  "sourceDirName": ".",
+  "slug": "/copyright",
+  "permalink": "/portfolio/copyright",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Copyright Information",
+    "custom_edit_url": null
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Release Notes",
+    "permalink": "/portfolio/release-notes"
+  },
+  "next": {
+    "title": "Feedback and Support",
+    "permalink": "/portfolio/feedback"
+  }
+}

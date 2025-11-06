@@ -1,0 +1,25 @@
+{
+  "id": "about",
+  "title": "About Me",
+  "description": "Hi, I’m Bipin Pandey — an Information Architect and Strategic Content Manager passionate about building intelligent documentation ecosystems.",
+  "source": "@site/docs/about.md",
+  "sourceDirName": ".",
+  "slug": "/about",
+  "permalink": "/portfolio/about",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/about.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/portfolio/intro"
+  },
+  "next": {
+    "title": "Information Architecture Strategy",
+    "permalink": "/portfolio/ia-strategy"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/templates/managing-template-files",
+  "title": "Managing Template Files",
+  "description": "You can upload files for use with your templates. These can be public files or private files.",
+  "source": "@site/docs/integration-manager/templates/managing-template-files.md",
+  "sourceDirName": "integration-manager/templates",
+  "slug": "/integration-manager/templates/managing-template-files",
+  "permalink": "/portfolio/integration-manager/templates/managing-template-files",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/templates/managing-template-files.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Managing Template Files"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Importing Template Macros",
+    "permalink": "/portfolio/integration-manager/templates/importing-template-macros"
+  },
+  "next": {
+    "title": "Managing Template Configurations",
+    "permalink": "/portfolio/integration-manager/templates/managing-template-configurations"
+  }
+}

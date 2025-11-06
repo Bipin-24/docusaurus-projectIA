@@ -1,0 +1,25 @@
+{
+  "id": "intelligent-authoring",
+  "title": "Intelligent Authoring",
+  "description": "AI-assisted authoring empowers writers to focus on quality.",
+  "source": "@site/docs/intelligent-authoring.md",
+  "sourceDirName": ".",
+  "slug": "/intelligent-authoring",
+  "permalink": "/portfolio/intelligent-authoring",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/intelligent-authoring.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "AI in Documentation",
+    "permalink": "/portfolio/ai-content-solutions"
+  },
+  "next": {
+    "title": "Content Classification",
+    "permalink": "/portfolio/content-classification"
+  }
+}

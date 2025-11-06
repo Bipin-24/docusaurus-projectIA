@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/templates/importing-template-macros",
+  "title": "Importing Template Macros",
+  "description": "To import template macros:",
+  "source": "@site/docs/integration-manager/templates/importing-template-macros.md",
+  "sourceDirName": "integration-manager/templates",
+  "slug": "/integration-manager/templates/importing-template-macros",
+  "permalink": "/portfolio/integration-manager/templates/importing-template-macros",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/templates/importing-template-macros.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Importing Template Macros"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Activating or Inactivating Templates",
+    "permalink": "/portfolio/integration-manager/templates/activating-or-inactivating-templates"
+  },
+  "next": {
+    "title": "Managing Template Files",
+    "permalink": "/portfolio/integration-manager/templates/managing-template-files"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/macros/using-LOCAL_JOB_SPEC_DIR",
+  "title": "Using LOCAL_JOB_SPEC_DIR",
+  "description": "The macro LOCALJOBSPEC_DIR is automatically configured for your jobs running in Integration Manager. It will be automatically populated with the location to which additional files are downloaded when your job runs.",
+  "source": "@site/docs/integration-manager/macros/using-LOCAL_JOB_SPEC_DIR.md",
+  "sourceDirName": "integration-manager/macros",
+  "slug": "/integration-manager/macros/using-LOCAL_JOB_SPEC_DIR",
+  "permalink": "/portfolio/integration-manager/macros/using-LOCAL_JOB_SPEC_DIR",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/macros/using-LOCAL_JOB_SPEC_DIR.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Using LOCAL_JOB_SPEC_DIR"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Editing Macros",
+    "permalink": "/portfolio/integration-manager/macros/editing-macros"
+  },
+  "next": {
+    "title": "Using Pre-Installed Driver Macros",
+    "permalink": "/portfolio/integration-manager/macros/using-preinstalled-driver-macros"
+  }
+}

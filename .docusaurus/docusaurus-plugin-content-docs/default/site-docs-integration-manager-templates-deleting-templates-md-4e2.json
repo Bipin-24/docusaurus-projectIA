@@ -1,0 +1,18 @@
+{
+  "id": "integration-manager/templates/deleting-templates",
+  "title": "Deleting Templates",
+  "description": "To delete a template:",
+  "source": "@site/docs/integration-manager/templates/deleting-templates.md",
+  "sourceDirName": "integration-manager/templates",
+  "slug": "/integration-manager/templates/deleting-templates",
+  "permalink": "/portfolio/integration-manager/templates/deleting-templates",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/templates/deleting-templates.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Deleting Templates"
+  }
+}

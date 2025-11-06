@@ -1,0 +1,25 @@
+{
+  "id": "seo-optimization",
+  "title": "SEO Optimization for Docs",
+  "description": "SEO isn’t just for marketing — it’s critical for documentation.",
+  "source": "@site/docs/seo-optimization.md",
+  "sourceDirName": ".",
+  "slug": "/seo-optimization",
+  "permalink": "/portfolio/seo-optimization",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/seo-optimization.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Style Guides",
+    "permalink": "/portfolio/style-guides"
+  },
+  "next": {
+    "title": "Content Lifecycle Management",
+    "permalink": "/portfolio/content-lifecycle"
+  }
+}

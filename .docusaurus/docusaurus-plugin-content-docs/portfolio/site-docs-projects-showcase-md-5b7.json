@@ -1,0 +1,25 @@
+{
+  "id": "projects-showcase",
+  "title": "Projects Showcase",
+  "description": "🔹 Actian Documentation Revamp",
+  "source": "@site/docs/projects-showcase.md",
+  "sourceDirName": ".",
+  "slug": "/projects-showcase",
+  "permalink": "/portfolio/projects-showcase",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/projects-showcase.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Career Timeline",
+    "permalink": "/portfolio/career-timeline"
+  },
+  "next": {
+    "title": "Achievements",
+    "permalink": "/portfolio/achievements"
+  }
+}

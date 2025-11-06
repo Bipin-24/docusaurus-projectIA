@@ -1,0 +1,27 @@
+{
+  "id": "integration-agent/monitoring-agent-status",
+  "title": "Monitoring Agent Status",
+  "description": "From the Agents tab in Integration Manager, you can:",
+  "source": "@site/docs/integration-agent/monitoring-agent-status.md",
+  "sourceDirName": "integration-agent",
+  "slug": "/integration-agent/monitoring-agent-status",
+  "permalink": "/portfolio/integration-agent/monitoring-agent-status",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-agent/monitoring-agent-status.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Monitoring Agent Status"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Run Your First Remote Job",
+    "permalink": "/portfolio/integration-agent/run-your-first-remote-job"
+  },
+  "next": {
+    "title": "Accessing On-Premise Storage",
+    "permalink": "/portfolio/integration-agent/on-prem-data/accessing-on-premise-storage"
+  }
+}

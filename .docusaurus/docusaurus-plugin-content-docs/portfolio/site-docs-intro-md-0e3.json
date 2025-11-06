@@ -1,0 +1,21 @@
+{
+  "id": "intro",
+  "title": "Portfolio Overview",
+  "description": "Welcome to my professional portfolio — a collection of my work, insights, and strategy frameworks as a Strategic Content Manager and Information Architect.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/portfolio/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "next": {
+    "title": "About Me",
+    "permalink": "/portfolio/about"
+  }
+}

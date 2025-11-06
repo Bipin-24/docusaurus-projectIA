@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/configurations/managing-configuration-files",
+  "title": "Managing Configuration Files",
+  "description": "You can upload files for use with your configurations. These can be public files or private files.",
+  "source": "@site/docs/integration-manager/configurations/managing-configuration-files.md",
+  "sourceDirName": "integration-manager/configurations",
+  "slug": "/integration-manager/configurations/managing-configuration-files",
+  "permalink": "/portfolio/integration-manager/configurations/managing-configuration-files",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/configurations/managing-configuration-files.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Managing Configuration Files"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Importing Configuration Macros",
+    "permalink": "/portfolio/integration-manager/configurations/importing-configuration-macros"
+  },
+  "next": {
+    "title": "Running Configurations",
+    "permalink": "/portfolio/integration-manager/configurations/running-configurations"
+  }
+}

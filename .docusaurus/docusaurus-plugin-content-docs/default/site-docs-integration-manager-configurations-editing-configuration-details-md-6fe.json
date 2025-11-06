@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/configurations/editing-configuration-details",
+  "title": "Editing Configuration Details",
+  "description": "To edit configuration details:",
+  "source": "@site/docs/integration-manager/configurations/editing-configuration-details.md",
+  "sourceDirName": "integration-manager/configurations",
+  "slug": "/integration-manager/configurations/editing-configuration-details",
+  "permalink": "/portfolio/integration-manager/configurations/editing-configuration-details",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/configurations/editing-configuration-details.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Editing Configuration Details"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Creating Configurations",
+    "permalink": "/portfolio/integration-manager/configurations/creating-configurations"
+  },
+  "next": {
+    "title": "Activating or Inactivating Configurations",
+    "permalink": "/portfolio/integration-manager/configurations/activating-or-inactivating-configurations"
+  }
+}

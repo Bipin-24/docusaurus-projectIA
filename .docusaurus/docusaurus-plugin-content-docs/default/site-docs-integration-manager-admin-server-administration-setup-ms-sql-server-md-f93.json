@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/server-administration/setup-ms-sql-server",
+  "title": "Microsoft SQL Server",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/admin/server-administration/setup-ms-sql-server.md",
+  "sourceDirName": "integration-manager/admin/server-administration",
+  "slug": "/integration-manager/admin/server-administration/setup-ms-sql-server",
+  "permalink": "/portfolio/integration-manager/admin/server-administration/setup-ms-sql-server",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/server-administration/setup-ms-sql-server.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Microsoft SQL Server"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "MySQL",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/setup-mysql"
+  },
+  "next": {
+    "title": "RabbitMQ",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/setup-rabbitmq"
+  }
+}

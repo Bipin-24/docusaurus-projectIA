@@ -1,0 +1,28 @@
+{
+  "id": "integration-manager/admin/application-property-reference/queue-connection-properties",
+  "title": "Queue Connection Properties",
+  "description": "Refer to the following table for available Queue Connection properties:",
+  "source": "@site/docs/integration-manager/admin/application-property-reference/queue-connection-properties.md",
+  "sourceDirName": "integration-manager/admin/application-property-reference",
+  "slug": "/integration-manager/admin/application-property-reference/queue-connection-properties",
+  "permalink": "/portfolio/integration-manager/admin/application-property-reference/queue-connection-properties",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/application-property-reference/queue-connection-properties.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Queue Connection Properties",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "File Repository Properties",
+    "permalink": "/portfolio/integration-manager/admin/application-property-reference/file-repository-properties"
+  },
+  "next": {
+    "title": "Web Server Properties",
+    "permalink": "/portfolio/integration-manager/admin/application-property-reference/web-server-properties"
+  }
+}

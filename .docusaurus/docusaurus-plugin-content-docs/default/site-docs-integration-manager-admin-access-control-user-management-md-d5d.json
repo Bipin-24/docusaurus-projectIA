@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/access-control/user-management",
+  "title": "User Management",
+  "description": "Administrators can create and manage users within the Administration Console. Note that User Management requires Account admin access.",
+  "source": "@site/docs/integration-manager/admin/access-control/user-management.md",
+  "sourceDirName": "integration-manager/admin/access-control",
+  "slug": "/integration-manager/admin/access-control/user-management",
+  "permalink": "/portfolio/integration-manager/admin/access-control/user-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/access-control/user-management.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "User Management"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Configuring Access Token Signatures",
+    "permalink": "/portfolio/integration-manager/admin/security/access-token-signatures"
+  },
+  "next": {
+    "title": "Access Control Policies",
+    "permalink": "/portfolio/integration-manager/admin/access-control/access-control-polices"
+  }
+}

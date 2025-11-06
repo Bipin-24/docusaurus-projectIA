@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/jobs/job-status-codes",
+  "title": "Job Status Codes",
+  "description": "| Status | Description",
+  "source": "@site/docs/integration-manager/jobs/job-status-codes.md",
+  "sourceDirName": "integration-manager/jobs",
+  "slug": "/integration-manager/jobs/job-status-codes",
+  "permalink": "/portfolio/integration-manager/jobs/job-status-codes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/jobs/job-status-codes.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Job Status Codes"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Viewing Job Run History",
+    "permalink": "/portfolio/integration-manager/jobs/viewing-job-run-history"
+  },
+  "next": {
+    "title": "Downloading the Log File",
+    "permalink": "/portfolio/integration-manager/jobs/downloading-the-log-file"
+  }
+}

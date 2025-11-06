@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/run-locations",
+  "title": "Run Locations",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/run-locations.md",
+  "sourceDirName": "integration-manager",
+  "slug": "/integration-manager/run-locations",
+  "permalink": "/portfolio/integration-manager/run-locations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/run-locations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Run Locations"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Managing Template Configurations",
+    "permalink": "/portfolio/integration-manager/templates/managing-template-configurations"
+  },
+  "next": {
+    "title": "Viewing Job Run History",
+    "permalink": "/portfolio/integration-manager/jobs/viewing-job-run-history"
+  }
+}

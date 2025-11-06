@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/templates/creating-a-configuration-from-a-template",
+  "title": "Creating a Configuration From a Template",
+  "description": "To create a configuration from a template:",
+  "source": "@site/docs/integration-manager/templates/creating-a-configuration-from-a-template.md",
+  "sourceDirName": "integration-manager/templates",
+  "slug": "/integration-manager/templates/creating-a-configuration-from-a-template",
+  "permalink": "/portfolio/integration-manager/templates/creating-a-configuration-from-a-template",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/templates/creating-a-configuration-from-a-template.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Creating a Configuration From a Template"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Editing Template Details",
+    "permalink": "/portfolio/integration-manager/templates/editing-template-details"
+  },
+  "next": {
+    "title": "Activating or Inactivating Templates",
+    "permalink": "/portfolio/integration-manager/templates/activating-or-inactivating-templates"
+  }
+}

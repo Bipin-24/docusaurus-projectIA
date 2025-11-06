@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/configurations/configurations-overview",
+  "title": "Configurations Overview",
+  "description": "A configuration is a set of properties and parameters that specify when, where, and how an integration will be executed. Configurations contain references to a specific integration, the location in which the integration will be executed, and the frequency at which executions will occur.",
+  "source": "@site/docs/integration-manager/configurations/configurations-overview.md",
+  "sourceDirName": "integration-manager/configurations",
+  "slug": "/integration-manager/configurations/configurations-overview",
+  "permalink": "/portfolio/integration-manager/configurations/configurations-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/configurations/configurations-overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Configurations Overview"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Integration Manager User Guide",
+    "permalink": "/portfolio/integration-manager/manager-overview"
+  },
+  "next": {
+    "title": "Importing Configurations",
+    "permalink": "/portfolio/integration-manager/configurations/importing-configurations"
+  }
+}

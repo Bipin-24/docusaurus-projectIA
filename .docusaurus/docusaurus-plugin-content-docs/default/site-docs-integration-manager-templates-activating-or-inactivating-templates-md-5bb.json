@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/templates/activating-or-inactivating-templates",
+  "title": "Activating or Inactivating Templates",
+  "description": "Setting a template to Inactive not only inactivates the template but will also inactivate any configurations based on it.",
+  "source": "@site/docs/integration-manager/templates/activating-or-inactivating-templates.md",
+  "sourceDirName": "integration-manager/templates",
+  "slug": "/integration-manager/templates/activating-or-inactivating-templates",
+  "permalink": "/portfolio/integration-manager/templates/activating-or-inactivating-templates",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/templates/activating-or-inactivating-templates.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Activating or Inactivating Templates"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Creating a Configuration From a Template",
+    "permalink": "/portfolio/integration-manager/templates/creating-a-configuration-from-a-template"
+  },
+  "next": {
+    "title": "Importing Template Macros",
+    "permalink": "/portfolio/integration-manager/templates/importing-template-macros"
+  }
+}

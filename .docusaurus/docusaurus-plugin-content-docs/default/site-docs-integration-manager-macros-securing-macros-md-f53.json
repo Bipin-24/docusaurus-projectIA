@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/macros/securing-macros",
+  "title": "Securing Macros",
+  "description": "You can permanently encrypt macro values by using the Secure flag. Once a macro is flagged as secure, it can never be read outside of the integration engine runtime.",
+  "source": "@site/docs/integration-manager/macros/securing-macros.md",
+  "sourceDirName": "integration-manager/macros",
+  "slug": "/integration-manager/macros/securing-macros",
+  "permalink": "/portfolio/integration-manager/macros/securing-macros",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/macros/securing-macros.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Securing Macros"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Using Pre-Installed Driver Macros",
+    "permalink": "/portfolio/integration-manager/macros/using-preinstalled-driver-macros"
+  },
+  "next": {
+    "title": "Managing Files",
+    "permalink": "/portfolio/integration-manager/files/managing-files"
+  }
+}

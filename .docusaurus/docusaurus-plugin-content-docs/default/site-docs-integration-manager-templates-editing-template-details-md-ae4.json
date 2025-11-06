@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/templates/editing-template-details",
+  "title": "Editing Template Details",
+  "description": "To edit template details:",
+  "source": "@site/docs/integration-manager/templates/editing-template-details.md",
+  "sourceDirName": "integration-manager/templates",
+  "slug": "/integration-manager/templates/editing-template-details",
+  "permalink": "/portfolio/integration-manager/templates/editing-template-details",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/templates/editing-template-details.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Editing Template Details"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Creating Templates",
+    "permalink": "/portfolio/integration-manager/templates/creating-templates"
+  },
+  "next": {
+    "title": "Creating a Configuration From a Template",
+    "permalink": "/portfolio/integration-manager/templates/creating-a-configuration-from-a-template"
+  }
+}

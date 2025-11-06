@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/configurations/importing-configuration-macros",
+  "title": "Importing Configuration Macros",
+  "description": "To import configuration macros:",
+  "source": "@site/docs/integration-manager/configurations/importing-configuration-macros.md",
+  "sourceDirName": "integration-manager/configurations",
+  "slug": "/integration-manager/configurations/importing-configuration-macros",
+  "permalink": "/portfolio/integration-manager/configurations/importing-configuration-macros",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/configurations/importing-configuration-macros.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Importing Configuration Macros"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Creating Configuration Macros",
+    "permalink": "/portfolio/integration-manager/configurations/creating-configuration-macros"
+  },
+  "next": {
+    "title": "Managing Configuration Files",
+    "permalink": "/portfolio/integration-manager/configurations/managing-configuration-files"
+  }
+}

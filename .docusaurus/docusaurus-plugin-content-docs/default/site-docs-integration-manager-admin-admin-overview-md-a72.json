@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/admin-overview",
+  "title": "Integration Manager Administration Guide",
+  "description": "This section describes tasks performed by Integration Manager administrators, including access control, server administration, workload management, and configuration of security, DataFlow jobs, APIs, and listeners.",
+  "source": "@site/docs/integration-manager/admin/admin-overview.md",
+  "sourceDirName": "integration-manager/admin",
+  "slug": "/integration-manager/admin/admin-overview",
+  "permalink": "/portfolio/integration-manager/admin/admin-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/admin-overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration Manager Administration Guide"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Executing a Template with an Agent",
+    "permalink": "/portfolio/integration-manager/agents-and-devices/execute-template-with-agent"
+  },
+  "next": {
+    "title": "Encryption Keystores",
+    "permalink": "/portfolio/integration-manager/admin/security/encryption-keystores"
+  }
+}

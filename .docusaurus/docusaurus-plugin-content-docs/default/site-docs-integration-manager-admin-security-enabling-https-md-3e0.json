@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/security/enabling-https",
+  "title": "Enabling HTTPS",
+  "description": "Using HTTPS is always recommended. Otherwise, API tokens, credentials, and payloads are subject to hijack.",
+  "source": "@site/docs/integration-manager/admin/security/enabling-https.md",
+  "sourceDirName": "integration-manager/admin/security",
+  "slug": "/integration-manager/admin/security/enabling-https",
+  "permalink": "/portfolio/integration-manager/admin/security/enabling-https",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/security/enabling-https.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Enabling HTTPS"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Encryption Keystores",
+    "permalink": "/portfolio/integration-manager/admin/security/encryption-keystores"
+  },
+  "next": {
+    "title": "Encryption-at-Rest",
+    "permalink": "/portfolio/integration-manager/admin/security/encryption-at-rest"
+  }
+}

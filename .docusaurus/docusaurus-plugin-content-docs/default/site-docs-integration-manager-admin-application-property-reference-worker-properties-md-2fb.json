@@ -1,0 +1,28 @@
+{
+  "id": "integration-manager/admin/application-property-reference/worker-properties",
+  "title": "Worker Properties",
+  "description": "Refer to the following table for available Worker properties:",
+  "source": "@site/docs/integration-manager/admin/application-property-reference/worker-properties.md",
+  "sourceDirName": "integration-manager/admin/application-property-reference",
+  "slug": "/integration-manager/admin/application-property-reference/worker-properties",
+  "permalink": "/portfolio/integration-manager/admin/application-property-reference/worker-properties",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/application-property-reference/worker-properties.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Worker Properties",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Web Server Properties",
+    "permalink": "/portfolio/integration-manager/admin/application-property-reference/web-server-properties"
+  },
+  "next": {
+    "title": "Integration Agent Overview",
+    "permalink": "/portfolio/integration-agent/agent-overview"
+  }
+}

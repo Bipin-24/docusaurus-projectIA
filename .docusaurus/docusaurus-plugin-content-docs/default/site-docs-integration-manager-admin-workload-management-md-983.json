@@ -1,0 +1,18 @@
+{
+  "id": "integration-manager/admin/workload-management",
+  "title": "Workload Management",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/admin/workload-management.md",
+  "sourceDirName": "integration-manager/admin",
+  "slug": "/integration-manager/admin/workload-management",
+  "permalink": "/portfolio/integration-manager/admin/workload-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/workload-management.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Workload Management"
+  }
+}

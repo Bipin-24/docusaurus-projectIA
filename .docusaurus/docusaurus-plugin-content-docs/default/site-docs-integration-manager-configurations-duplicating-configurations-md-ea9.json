@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/configurations/duplicating-configurations",
+  "title": "Duplicating Configurations",
+  "description": "If you need an integration that is very similar to an existing integration, consider duplicating the existing integration and revising it, rather than creating one from scratch.",
+  "source": "@site/docs/integration-manager/configurations/duplicating-configurations.md",
+  "sourceDirName": "integration-manager/configurations",
+  "slug": "/integration-manager/configurations/duplicating-configurations",
+  "permalink": "/portfolio/integration-manager/configurations/duplicating-configurations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/configurations/duplicating-configurations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Duplicating Configurations"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Activating or Inactivating Configurations",
+    "permalink": "/portfolio/integration-manager/configurations/activating-or-inactivating-configurations"
+  },
+  "next": {
+    "title": "Deleting Configurations",
+    "permalink": "/portfolio/integration-manager/configurations/deleting-configurations"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "integration-agent/agent-overview",
+  "title": "Integration Agent Overview",
+  "description": "The INTEGRATION AGENT section contains information specific to the Agent itself, including installation and registration, on-premise data, and other more advanced topics. Details on managing agents from the Integration Manager (cloud or on-premise) are described in the INTEGRATION MANAGER USERS section. See Managing Agents and Devices.",
+  "source": "@site/docs/integration-agent/agent-overview.md",
+  "sourceDirName": "integration-agent",
+  "slug": "/integration-agent/agent-overview",
+  "permalink": "/portfolio/integration-agent/agent-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-agent/agent-overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration Agent Overview",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Worker Properties",
+    "permalink": "/portfolio/integration-manager/admin/application-property-reference/worker-properties"
+  },
+  "next": {
+    "title": "Quick Start Installation",
+    "permalink": "/portfolio/integration-agent/quickstart-install"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/server-administration/production-configuration",
+  "title": "Production Configuration",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/admin/server-administration/production-configuration.md",
+  "sourceDirName": "integration-manager/admin/server-administration",
+  "slug": "/integration-manager/admin/server-administration/production-configuration",
+  "permalink": "/portfolio/integration-manager/admin/server-administration/production-configuration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/server-administration/production-configuration.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Production Configuration"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Production Architecture",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/production-architecture"
+  },
+  "next": {
+    "title": "MySQL",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/setup-mysql"
+  }
+}

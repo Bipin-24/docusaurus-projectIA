@@ -1,0 +1,25 @@
+{
+  "id": "content-performance-dashboard",
+  "title": "Content Performance Dashboard",
+  "description": "I designed dashboards (using Google Analytics and custom scripts) to visualize content metrics like:",
+  "source": "@site/docs/content-performance-dashboard.md",
+  "sourceDirName": ".",
+  "slug": "/content-performance-dashboard",
+  "permalink": "/portfolio/content-performance-dashboard",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/content-performance-dashboard.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Search Patterns",
+    "permalink": "/portfolio/search-patterns"
+  },
+  "next": {
+    "title": "Career Timeline",
+    "permalink": "/portfolio/career-timeline"
+  }
+}

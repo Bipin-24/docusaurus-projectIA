@@ -1,0 +1,25 @@
+{
+  "id": "content-classification",
+  "title": "Content Classification",
+  "description": "Content classification using NLP models ensures documents are automatically categorized for better retrieval.",
+  "source": "@site/docs/content-classification.md",
+  "sourceDirName": ".",
+  "slug": "/content-classification",
+  "permalink": "/portfolio/content-classification",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/content-classification.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Intelligent Authoring",
+    "permalink": "/portfolio/intelligent-authoring"
+  },
+  "next": {
+    "title": "Search Optimization using AI",
+    "permalink": "/portfolio/search-optimization-ai"
+  }
+}

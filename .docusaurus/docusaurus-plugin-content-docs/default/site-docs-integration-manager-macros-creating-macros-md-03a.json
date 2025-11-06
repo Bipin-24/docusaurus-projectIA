@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/macros/creating-macros",
+  "title": "Creating Macros",
+  "description": "This topic describes the process of manually creating a macro. For details on importing macros, see Importing Macros.",
+  "source": "@site/docs/integration-manager/macros/creating-macros.md",
+  "sourceDirName": "integration-manager/macros",
+  "slug": "/integration-manager/macros/creating-macros",
+  "permalink": "/portfolio/integration-manager/macros/creating-macros",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/macros/creating-macros.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Creating Macros"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Macros Overview",
+    "permalink": "/portfolio/integration-manager/macros/macros-overview"
+  },
+  "next": {
+    "title": "Importing Macros",
+    "permalink": "/portfolio/integration-manager/macros/importing-macros"
+  }
+}

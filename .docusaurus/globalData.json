@@ -1,0 +1,157 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/portfolio",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/portfolio",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "about",
+              "path": "/portfolio/about",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "achievements",
+              "path": "/portfolio/achievements",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "ai-content-solutions",
+              "path": "/portfolio/ai-content-solutions",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "analytics-and-metrics",
+              "path": "/portfolio/analytics-and-metrics",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "career-timeline",
+              "path": "/portfolio/career-timeline",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "contact",
+              "path": "/portfolio/contact",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "content-classification",
+              "path": "/portfolio/content-classification",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "content-lifecycle",
+              "path": "/portfolio/content-lifecycle",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "content-performance-dashboard",
+              "path": "/portfolio/content-performance-dashboard",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "content-reuse-models",
+              "path": "/portfolio/content-reuse-models",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "content-strategy",
+              "path": "/portfolio/content-strategy",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "governance-models",
+              "path": "/portfolio/governance-models",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "ia-frameworks",
+              "path": "/portfolio/ia-frameworks",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "ia-strategy",
+              "path": "/portfolio/ia-strategy",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "intelligent-authoring",
+              "path": "/portfolio/intelligent-authoring",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/portfolio/intro",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "knowledge-graphs",
+              "path": "/portfolio/knowledge-graphs",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "metadata-taxonomy",
+              "path": "/portfolio/metadata-taxonomy",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "projects-showcase",
+              "path": "/portfolio/projects-showcase",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "resume",
+              "path": "/portfolio/resume"
+            },
+            {
+              "id": "search-optimization-ai",
+              "path": "/portfolio/search-optimization-ai",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "search-patterns",
+              "path": "/portfolio/search-patterns",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "seo-optimization",
+              "path": "/portfolio/seo-optimization",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "site-architecture-design",
+              "path": "/portfolio/site-architecture-design",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "style-guides",
+              "path": "/portfolio/style-guides",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "user-journey-analysis",
+              "path": "/portfolio/user-journey-analysis",
+              "sidebar": "portfolioSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "portfolioSidebar": {
+              "link": {
+                "path": "/portfolio/intro",
+                "label": "Overview"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

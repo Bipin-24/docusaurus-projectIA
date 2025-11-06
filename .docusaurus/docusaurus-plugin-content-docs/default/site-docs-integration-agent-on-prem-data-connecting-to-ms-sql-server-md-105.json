@@ -1,0 +1,27 @@
+{
+  "id": "integration-agent/on-prem-data/connecting-to-ms-sql-server",
+  "title": "Connecting to MS SQL Server",
+  "description": "On Windows, the Agent runs using the Windows Local System account by default. This may or may not be sufficient, depending on your business' security protocols.",
+  "source": "@site/docs/integration-agent/on-prem-data/connecting-to-ms-sql-server.md",
+  "sourceDirName": "integration-agent/on-prem-data",
+  "slug": "/integration-agent/on-prem-data/connecting-to-ms-sql-server",
+  "permalink": "/portfolio/integration-agent/on-prem-data/connecting-to-ms-sql-server",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-agent/on-prem-data/connecting-to-ms-sql-server.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Connecting to MS SQL Server"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Accessing On-Premise Storage",
+    "permalink": "/portfolio/integration-agent/on-prem-data/accessing-on-premise-storage"
+  },
+  "next": {
+    "title": "File Listener Services Overview",
+    "permalink": "/portfolio/integration-manager/file-listener/file-listener-overview"
+  }
+}

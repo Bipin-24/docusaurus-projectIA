@@ -1,0 +1,18 @@
+{
+  "id": "integration-manager/templates/data-integration-template-setup",
+  "title": "Data Integration Template Setup",
+  "description": "",
+  "source": "@site/docs/integration-manager/templates/data-integration-template-setup.md",
+  "sourceDirName": "integration-manager/templates",
+  "slug": "/integration-manager/templates/data-integration-template-setup",
+  "permalink": "/portfolio/integration-manager/templates/data-integration-template-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/templates/data-integration-template-setup.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Data Integration Template Setup"
+  }
+}

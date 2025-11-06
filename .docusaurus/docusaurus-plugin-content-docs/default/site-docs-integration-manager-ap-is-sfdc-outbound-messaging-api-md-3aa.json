@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/APIs/sfdc-outbound-messaging-api",
+  "title": "Salesforce.com Outbound Messaging",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/APIs/sfdc-outbound-messaging-api.md",
+  "sourceDirName": "integration-manager/APIs",
+  "slug": "/integration-manager/APIs/sfdc-outbound-messaging-api",
+  "permalink": "/portfolio/integration-manager/APIs/sfdc-outbound-messaging-api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/APIs/sfdc-outbound-messaging-api.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Salesforce.com Outbound Messaging"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "DataCloud File Loader API",
+    "permalink": "/portfolio/integration-manager/APIs/file-loader-api"
+  },
+  "next": {
+    "title": "Managing Agents and Devices",
+    "permalink": "/portfolio/integration-manager/agents-and-devices/managing-agents-and-devices"
+  }
+}

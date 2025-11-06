@@ -1,0 +1,25 @@
+{
+  "id": "content-reuse-models",
+  "title": "Content Reuse Models",
+  "description": "Reusability drives scalability.",
+  "source": "@site/docs/content-reuse-models.md",
+  "sourceDirName": ".",
+  "slug": "/content-reuse-models",
+  "permalink": "/portfolio/content-reuse-models",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/content-reuse-models.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Metadata & Taxonomy Design",
+    "permalink": "/portfolio/metadata-taxonomy"
+  },
+  "next": {
+    "title": "Site Architecture Design",
+    "permalink": "/portfolio/site-architecture-design"
+  }
+}

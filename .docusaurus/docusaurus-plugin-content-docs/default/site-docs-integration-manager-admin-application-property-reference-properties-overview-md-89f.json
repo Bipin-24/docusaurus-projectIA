@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/application-property-reference/properties-overview",
+  "title": "Application Property Reference",
+  "description": "The application.properties file can be used for a variety of configurations to tailor Integration Manager to your requirements and environment. Refer to the following topics:",
+  "source": "@site/docs/integration-manager/admin/application-property-reference/properties-overview.md",
+  "sourceDirName": "integration-manager/admin/application-property-reference",
+  "slug": "/integration-manager/admin/application-property-reference/properties-overview",
+  "permalink": "/portfolio/integration-manager/admin/application-property-reference/properties-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/application-property-reference/properties-overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Application Property Reference"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Aggregator Service",
+    "permalink": "/portfolio/integration-manager/admin/aggregator-service"
+  },
+  "next": {
+    "title": "DataConnect Properties",
+    "permalink": "/portfolio/integration-manager/admin/application-property-reference/dataconnect-properties"
+  }
+}

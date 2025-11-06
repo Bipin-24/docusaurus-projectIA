@@ -1,0 +1,25 @@
+{
+  "id": "content-lifecycle",
+  "title": "Content Lifecycle Management",
+  "description": "I build lifecycle workflows from draft → review → publish → retire.",
+  "source": "@site/docs/content-lifecycle.md",
+  "sourceDirName": ".",
+  "slug": "/content-lifecycle",
+  "permalink": "/portfolio/content-lifecycle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/content-lifecycle.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "SEO Optimization for Docs",
+    "permalink": "/portfolio/seo-optimization"
+  },
+  "next": {
+    "title": "Analytics & Metrics",
+    "permalink": "/portfolio/analytics-and-metrics"
+  }
+}

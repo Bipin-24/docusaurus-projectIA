@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/security/access-token-signatures",
+  "title": "Configuring Access Token Signatures",
+  "description": "1. Create a new keystore with keypair to be used for token signatures:",
+  "source": "@site/docs/integration-manager/admin/security/access-token-signatures.md",
+  "sourceDirName": "integration-manager/admin/security",
+  "slug": "/integration-manager/admin/security/access-token-signatures",
+  "permalink": "/portfolio/integration-manager/admin/security/access-token-signatures",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/security/access-token-signatures.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Configuring Access Token Signatures"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Encryption-at-Rest",
+    "permalink": "/portfolio/integration-manager/admin/security/encryption-at-rest"
+  },
+  "next": {
+    "title": "User Management",
+    "permalink": "/portfolio/integration-manager/admin/access-control/user-management"
+  }
+}

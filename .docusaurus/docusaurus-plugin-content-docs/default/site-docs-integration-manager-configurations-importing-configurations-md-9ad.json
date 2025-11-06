@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/configurations/importing-configurations",
+  "title": "Importing Configurations",
+  "description": "Importing a Local File",
+  "source": "@site/docs/integration-manager/configurations/importing-configurations.md",
+  "sourceDirName": "integration-manager/configurations",
+  "slug": "/integration-manager/configurations/importing-configurations",
+  "permalink": "/portfolio/integration-manager/configurations/importing-configurations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/configurations/importing-configurations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Importing Configurations"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Configurations Overview",
+    "permalink": "/portfolio/integration-manager/configurations/configurations-overview"
+  },
+  "next": {
+    "title": "Creating Configurations",
+    "permalink": "/portfolio/integration-manager/configurations/creating-configurations"
+  }
+}

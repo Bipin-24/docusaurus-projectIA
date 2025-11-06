@@ -1,0 +1,28 @@
+{
+  "id": "integration-agent/advanced-topics/configuration-files",
+  "title": "Configuration Files",
+  "description": "Most Agent properties are set automatically and do not require maintenance or modification. In some cases, the default settings must be changed for various environment-specific reasons or corporate protocols. This section is a reference for making such changes, if required.",
+  "source": "@site/docs/integration-agent/advanced-topics/configuration-files.md",
+  "sourceDirName": "integration-agent/advanced-topics",
+  "slug": "/integration-agent/advanced-topics/configuration-files",
+  "permalink": "/portfolio/integration-agent/advanced-topics/configuration-files",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-agent/advanced-topics/configuration-files.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Configuration Files",
+    "hide_table_of_contents": false
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "File Listener History & Backup Configuration",
+    "permalink": "/portfolio/integration-manager/file-listener/file-listener-history-management"
+  },
+  "next": {
+    "title": "Manual Agent Registration",
+    "permalink": "/portfolio/integration-agent/advanced-topics/manual-agent-registration"
+  }
+}

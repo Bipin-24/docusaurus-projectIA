@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/server-administration/integration-engines",
+  "title": "Integration Engines",
+  "description": "Integration Manager has the capability to leverage different Actian Integration Engines to execute jobs, depending on the use case. Generally, Integration Manager will install the latest GA patch of any supported Integration Engine as of the release date. It is recommended that you first update to the latest Integration Manager version before manually patching an Integration Engine.",
+  "source": "@site/docs/integration-manager/admin/server-administration/integration-engines.md",
+  "sourceDirName": "integration-manager/admin/server-administration",
+  "slug": "/integration-manager/admin/server-administration/integration-engines",
+  "permalink": "/portfolio/integration-manager/admin/server-administration/integration-engines",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/server-administration/integration-engines.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration Engines"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Server Upgrades",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/server-upgrades"
+  },
+  "next": {
+    "title": "Actian Integration Manager Worker",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/worker-install"
+  }
+}

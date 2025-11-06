@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/configurations/deleting-configurations",
+  "title": "Deleting Configurations",
+  "description": "You can delete an existing configuration from several different pages.",
+  "source": "@site/docs/integration-manager/configurations/deleting-configurations.md",
+  "sourceDirName": "integration-manager/configurations",
+  "slug": "/integration-manager/configurations/deleting-configurations",
+  "permalink": "/portfolio/integration-manager/configurations/deleting-configurations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/configurations/deleting-configurations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Deleting Configurations"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Duplicating Configurations",
+    "permalink": "/portfolio/integration-manager/configurations/duplicating-configurations"
+  },
+  "next": {
+    "title": "Creating Configuration Macros",
+    "permalink": "/portfolio/integration-manager/configurations/creating-configuration-macros"
+  }
+}

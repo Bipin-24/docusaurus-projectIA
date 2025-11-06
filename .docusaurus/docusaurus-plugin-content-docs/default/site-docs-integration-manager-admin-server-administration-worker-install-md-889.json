@@ -1,0 +1,28 @@
+{
+  "id": "integration-manager/admin/server-administration/worker-install",
+  "title": "Actian Integration Manager Worker",
+  "description": "This section describes how to install, configure, and use the Actian Integration Manager Worker.",
+  "source": "@site/docs/integration-manager/admin/server-administration/worker-install.md",
+  "sourceDirName": "integration-manager/admin/server-administration",
+  "slug": "/integration-manager/admin/server-administration/worker-install",
+  "permalink": "/portfolio/integration-manager/admin/server-administration/worker-install",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/server-administration/worker-install.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Actian Integration Manager Worker",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Integration Engines",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/integration-engines"
+  },
+  "next": {
+    "title": "File Folder Listener Service",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/file-folder-listener/file-folder-listener-service"
+  }
+}

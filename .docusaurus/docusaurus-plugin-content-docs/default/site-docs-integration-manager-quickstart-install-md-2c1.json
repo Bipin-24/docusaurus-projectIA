@@ -1,0 +1,28 @@
+{
+  "id": "integration-manager/quickstart-install",
+  "title": "Quick Start Installation",
+  "description": "Windows Installation",
+  "source": "@site/docs/integration-manager/quickstart-install.md",
+  "sourceDirName": "integration-manager",
+  "slug": "/integration-manager/quickstart-install",
+  "permalink": "/portfolio/integration-manager/quickstart-install",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/quickstart-install.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Quick Start Installation",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Feedback and Support",
+    "permalink": "/portfolio/feedback"
+  },
+  "next": {
+    "title": "Accessing the Integration Manager",
+    "permalink": "/portfolio/accessing-the-integration-manager"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "achievements",
+  "title": "Achievements",
+  "description": "- 🏆 Established uniform IA structure across multiple product lines.",
+  "source": "@site/docs/achievements.md",
+  "sourceDirName": ".",
+  "slug": "/achievements",
+  "permalink": "/portfolio/achievements",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/achievements.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Projects Showcase",
+    "permalink": "/portfolio/projects-showcase"
+  },
+  "next": {
+    "title": "Contact & Connect",
+    "permalink": "/portfolio/contact"
+  }
+}

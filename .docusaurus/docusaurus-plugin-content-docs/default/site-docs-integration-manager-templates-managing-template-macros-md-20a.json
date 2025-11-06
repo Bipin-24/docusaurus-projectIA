@@ -1,0 +1,18 @@
+{
+  "id": "integration-manager/templates/managing-template-macros",
+  "title": "Managing Template Macros",
+  "description": "Creating Configurations from a Template",
+  "source": "@site/docs/integration-manager/templates/managing-template-macros.md",
+  "sourceDirName": "integration-manager/templates",
+  "slug": "/integration-manager/templates/managing-template-macros",
+  "permalink": "/portfolio/integration-manager/templates/managing-template-macros",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/templates/managing-template-macros.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Managing Template Macros"
+  }
+}

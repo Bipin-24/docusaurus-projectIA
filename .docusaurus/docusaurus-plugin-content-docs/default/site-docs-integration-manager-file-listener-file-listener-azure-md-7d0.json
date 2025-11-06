@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/file-listener/file-listener-azure",
+  "title": "Azure Blob Storage Listener Example",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/file-listener/file-listener-azure.md",
+  "sourceDirName": "integration-manager/file-listener",
+  "slug": "/integration-manager/file-listener/file-listener-azure",
+  "permalink": "/portfolio/integration-manager/file-listener/file-listener-azure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/file-listener/file-listener-azure.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Azure Blob Storage Listener Example"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "AWS S3 Bucket Listener Example",
+    "permalink": "/portfolio/integration-manager/file-listener/file-listener-aws"
+  },
+  "next": {
+    "title": "GCP Cloud Storage Listener Example",
+    "permalink": "/portfolio/integration-manager/file-listener/file-listener-google"
+  }
+}

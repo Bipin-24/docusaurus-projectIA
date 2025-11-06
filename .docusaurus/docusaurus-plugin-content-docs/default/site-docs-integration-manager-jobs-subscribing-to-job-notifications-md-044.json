@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/jobs/subscribing-to-job-notifications",
+  "title": "Subscribing to Job Notifications",
+  "description": "Job notifications must be enabled and configured by an admin. See Configuring Job Notifications.",
+  "source": "@site/docs/integration-manager/jobs/subscribing-to-job-notifications.md",
+  "sourceDirName": "integration-manager/jobs",
+  "slug": "/integration-manager/jobs/subscribing-to-job-notifications",
+  "permalink": "/portfolio/integration-manager/jobs/subscribing-to-job-notifications",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/jobs/subscribing-to-job-notifications.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Subscribing to Job Notifications"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Downloading the Log File",
+    "permalink": "/portfolio/integration-manager/jobs/downloading-the-log-file"
+  },
+  "next": {
+    "title": "Macros Overview",
+    "permalink": "/portfolio/integration-manager/macros/macros-overview"
+  }
+}

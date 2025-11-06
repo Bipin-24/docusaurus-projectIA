@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/file-listener/file-listener-aws",
+  "title": "AWS S3 Bucket Listener Example",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/file-listener/file-listener-aws.md",
+  "sourceDirName": "integration-manager/file-listener",
+  "slug": "/integration-manager/file-listener/file-listener-aws",
+  "permalink": "/portfolio/integration-manager/file-listener/file-listener-aws",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/file-listener/file-listener-aws.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "AWS S3 Bucket Listener Example"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "File Folder Listener Example",
+    "permalink": "/portfolio/integration-manager/file-listener/file-listener-local"
+  },
+  "next": {
+    "title": "Azure Blob Storage Listener Example",
+    "permalink": "/portfolio/integration-manager/file-listener/file-listener-azure"
+  }
+}

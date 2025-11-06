@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/server-administration/file-folder-listener/google-cloud-storage-listener",
+  "title": "Google Cloud Storage Listener",
+  "description": "The Google Cloud Storage Listener monitors Google Storage buckets for files and will execute a pre-defined Job Configuration (config-id) when triggered.",
+  "source": "@site/docs/integration-manager/admin/server-administration/file-folder-listener/google-cloud-storage-listener.md",
+  "sourceDirName": "integration-manager/admin/server-administration/file-folder-listener",
+  "slug": "/integration-manager/admin/server-administration/file-folder-listener/google-cloud-storage-listener",
+  "permalink": "/portfolio/integration-manager/admin/server-administration/file-folder-listener/google-cloud-storage-listener",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/server-administration/file-folder-listener/google-cloud-storage-listener.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Google Cloud Storage Listener"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Azure Blob Storage Listener",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/file-folder-listener/azure-blob-storage-listener"
+  },
+  "next": {
+    "title": "Aggregator Service",
+    "permalink": "/portfolio/integration-manager/admin/aggregator-service"
+  }
+}

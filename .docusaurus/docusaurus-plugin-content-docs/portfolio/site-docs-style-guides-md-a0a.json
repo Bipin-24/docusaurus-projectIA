@@ -1,0 +1,25 @@
+{
+  "id": "style-guides",
+  "title": "Style Guides",
+  "description": "A style guide ensures consistent tone, structure, and voice.",
+  "source": "@site/docs/style-guides.md",
+  "sourceDirName": ".",
+  "slug": "/style-guides",
+  "permalink": "/portfolio/style-guides",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/style-guides.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Governance Models",
+    "permalink": "/portfolio/governance-models"
+  },
+  "next": {
+    "title": "SEO Optimization for Docs",
+    "permalink": "/portfolio/seo-optimization"
+  }
+}

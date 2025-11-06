@@ -1,0 +1,27 @@
+{
+  "id": "integration-agent/advanced-topics/manual-agent-registration",
+  "title": "Manual Agent Registration",
+  "description": "If you are having issues starting or registering a new or existing Agent installation, you can use Manual Agent Registration.",
+  "source": "@site/docs/integration-agent/advanced-topics/manual-agent-registration.md",
+  "sourceDirName": "integration-agent/advanced-topics",
+  "slug": "/integration-agent/advanced-topics/manual-agent-registration",
+  "permalink": "/portfolio/integration-agent/advanced-topics/manual-agent-registration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-agent/advanced-topics/manual-agent-registration.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Manual Agent Registration"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Configuration Files",
+    "permalink": "/portfolio/integration-agent/advanced-topics/configuration-files"
+  },
+  "next": {
+    "title": "Retrieve Agent Credential",
+    "permalink": "/portfolio/integration-agent/advanced-topics/retrieve-agent-credential"
+  }
+}

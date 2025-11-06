@@ -1,0 +1,27 @@
+{
+  "id": "dashboard",
+  "title": "Dashboard",
+  "description": "The Dashboard provides data visualization charts that you can use to monitor the overall status of your integrations, configurations, and agents.",
+  "source": "@site/docs/dashboard.md",
+  "sourceDirName": ".",
+  "slug": "/dashboard",
+  "permalink": "/portfolio/dashboard",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/dashboard.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Dashboard"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Accessing the Integration Manager",
+    "permalink": "/portfolio/accessing-the-integration-manager"
+  },
+  "next": {
+    "title": "Editing Your Profile",
+    "permalink": "/portfolio/editing-your-profile"
+  }
+}

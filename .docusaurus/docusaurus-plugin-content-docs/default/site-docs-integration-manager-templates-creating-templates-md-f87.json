@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/templates/creating-templates",
+  "title": "Creating Templates",
+  "description": "Templates contain integration settings that are reusable by linked configurations. Templates include a package, macros, and a location to execute the job.",
+  "source": "@site/docs/integration-manager/templates/creating-templates.md",
+  "sourceDirName": "integration-manager/templates",
+  "slug": "/integration-manager/templates/creating-templates",
+  "permalink": "/portfolio/integration-manager/templates/creating-templates",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/templates/creating-templates.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Creating Templates"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "DataFlow Job Configs",
+    "permalink": "/portfolio/integration-manager/configurations/dataflow-usage"
+  },
+  "next": {
+    "title": "Editing Template Details",
+    "permalink": "/portfolio/integration-manager/templates/editing-template-details"
+  }
+}

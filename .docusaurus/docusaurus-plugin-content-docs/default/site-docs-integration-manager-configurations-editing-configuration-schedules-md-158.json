@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/configurations/editing-configuration-schedules",
+  "title": "Editing Configuration Schedules",
+  "description": "Integration Manager supports both Interval and Cron expression scheduling. The powerful Quartz scheduler engine is used to manage scheduling and schedule triggers.",
+  "source": "@site/docs/integration-manager/configurations/editing-configuration-schedules.md",
+  "sourceDirName": "integration-manager/configurations",
+  "slug": "/integration-manager/configurations/editing-configuration-schedules",
+  "permalink": "/portfolio/integration-manager/configurations/editing-configuration-schedules",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/configurations/editing-configuration-schedules.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Editing Configuration Schedules"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Running Configurations",
+    "permalink": "/portfolio/integration-manager/configurations/running-configurations"
+  },
+  "next": {
+    "title": "Serialized Job Queues",
+    "permalink": "/portfolio/integration-manager/configurations/serialized-job-queues"
+  }
+}

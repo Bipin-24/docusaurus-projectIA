@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/macros/importing-macros",
+  "title": "Importing Macros",
+  "description": "Importing macros by uploading a macro definition file (see Macro File Examples) allows you to upload multiple macros without having to manually define each macro.",
+  "source": "@site/docs/integration-manager/macros/importing-macros.md",
+  "sourceDirName": "integration-manager/macros",
+  "slug": "/integration-manager/macros/importing-macros",
+  "permalink": "/portfolio/integration-manager/macros/importing-macros",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/macros/importing-macros.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Importing Macros"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Creating Macros",
+    "permalink": "/portfolio/integration-manager/macros/creating-macros"
+  },
+  "next": {
+    "title": "Editing Macros",
+    "permalink": "/portfolio/integration-manager/macros/editing-macros"
+  }
+}

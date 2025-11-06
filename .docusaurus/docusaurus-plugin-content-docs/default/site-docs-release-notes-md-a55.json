@@ -1,0 +1,27 @@
+{
+  "id": "release-notes",
+  "title": "Release Notes",
+  "description": "Documentation for Integration Platform releases prior to version 3.2 has not been migrated to this new documentation platform.",
+  "source": "@site/docs/release-notes.md",
+  "sourceDirName": ".",
+  "slug": "/release-notes",
+  "permalink": "/portfolio/release-notes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/release-notes.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Release Notes"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Actian Integration Platform",
+    "permalink": "/portfolio/intro"
+  },
+  "next": {
+    "title": "Copyright Information",
+    "permalink": "/portfolio/copyright"
+  }
+}

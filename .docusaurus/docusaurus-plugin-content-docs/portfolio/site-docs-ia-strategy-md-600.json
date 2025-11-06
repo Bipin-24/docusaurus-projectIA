@@ -1,0 +1,25 @@
+{
+  "id": "ia-strategy",
+  "title": "Information Architecture Strategy",
+  "description": "A well-defined Information Architecture (IA) ensures users can find what they need quickly, and authors can manage content efficiently.",
+  "source": "@site/docs/ia-strategy.md",
+  "sourceDirName": ".",
+  "slug": "/ia-strategy",
+  "permalink": "/portfolio/ia-strategy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/ia-strategy.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "About Me",
+    "permalink": "/portfolio/about"
+  },
+  "next": {
+    "title": "IA Frameworks",
+    "permalink": "/portfolio/ia-frameworks"
+  }
+}

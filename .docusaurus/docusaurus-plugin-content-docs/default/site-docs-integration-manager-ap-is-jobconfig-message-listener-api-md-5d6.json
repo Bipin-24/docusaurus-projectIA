@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/APIs/jobconfig-message-listener-api",
+  "title": "JobConfig Message Listener API",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/APIs/jobconfig-message-listener-api.md",
+  "sourceDirName": "integration-manager/APIs",
+  "slug": "/integration-manager/APIs/jobconfig-message-listener-api",
+  "permalink": "/portfolio/integration-manager/APIs/jobconfig-message-listener-api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/APIs/jobconfig-message-listener-api.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "JobConfig Message Listener API"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "JobConfig File Listener API",
+    "permalink": "/portfolio/integration-manager/APIs/jobconfig-file-listener-api"
+  },
+  "next": {
+    "title": "JobConfig/JobTemplate Export/Import API",
+    "permalink": "/portfolio/integration-manager/APIs/jobconfig-export-import-api"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/agents-and-devices/managing-agents-and-devices",
+  "title": "Managing Agents and Devices",
+  "description": "The Agents and Devices page in Integration Manager provides a list of registered Agents and the ability to manage your Agents.",
+  "source": "@site/docs/integration-manager/agents-and-devices/managing-agents-and-devices.md",
+  "sourceDirName": "integration-manager/agents-and-devices",
+  "slug": "/integration-manager/agents-and-devices/managing-agents-and-devices",
+  "permalink": "/portfolio/integration-manager/agents-and-devices/managing-agents-and-devices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/agents-and-devices/managing-agents-and-devices.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Managing Agents and Devices"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Salesforce.com Outbound Messaging",
+    "permalink": "/portfolio/integration-manager/APIs/sfdc-outbound-messaging-api"
+  },
+  "next": {
+    "title": "Downloading Integration Agent",
+    "permalink": "/portfolio/integration-manager/agents-and-devices/download-agent"
+  }
+}

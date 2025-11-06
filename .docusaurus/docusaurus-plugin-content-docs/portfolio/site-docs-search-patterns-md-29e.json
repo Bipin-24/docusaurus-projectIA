@@ -1,0 +1,25 @@
+{
+  "id": "search-patterns",
+  "title": "Search Patterns",
+  "description": "Analyzing search logs reveals what users truly need.",
+  "source": "@site/docs/search-patterns.md",
+  "sourceDirName": ".",
+  "slug": "/search-patterns",
+  "permalink": "/portfolio/search-patterns",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/search-patterns.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "User Journey Analysis",
+    "permalink": "/portfolio/user-journey-analysis"
+  },
+  "next": {
+    "title": "Content Performance Dashboard",
+    "permalink": "/portfolio/content-performance-dashboard"
+  }
+}

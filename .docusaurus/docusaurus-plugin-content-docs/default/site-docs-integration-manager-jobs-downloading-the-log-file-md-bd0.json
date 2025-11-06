@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/jobs/downloading-the-log-file",
+  "title": "Downloading the Log File",
+  "description": "To download a log file for a specific job:",
+  "source": "@site/docs/integration-manager/jobs/downloading-the-log-file.md",
+  "sourceDirName": "integration-manager/jobs",
+  "slug": "/integration-manager/jobs/downloading-the-log-file",
+  "permalink": "/portfolio/integration-manager/jobs/downloading-the-log-file",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/jobs/downloading-the-log-file.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Downloading the Log File"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Job Status Codes",
+    "permalink": "/portfolio/integration-manager/jobs/job-status-codes"
+  },
+  "next": {
+    "title": "Subscribing to Job Notifications",
+    "permalink": "/portfolio/integration-manager/jobs/subscribing-to-job-notifications"
+  }
+}

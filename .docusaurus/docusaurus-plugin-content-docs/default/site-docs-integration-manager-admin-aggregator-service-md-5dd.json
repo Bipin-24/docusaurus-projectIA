@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/aggregator-service",
+  "title": "Aggregator Service",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/admin/aggregator-service.md",
+  "sourceDirName": "integration-manager/admin",
+  "slug": "/integration-manager/admin/aggregator-service",
+  "permalink": "/portfolio/integration-manager/admin/aggregator-service",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/aggregator-service.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Aggregator Service"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Google Cloud Storage Listener",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/file-folder-listener/google-cloud-storage-listener"
+  },
+  "next": {
+    "title": "Application Property Reference",
+    "permalink": "/portfolio/integration-manager/admin/application-property-reference/properties-overview"
+  }
+}

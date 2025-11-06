@@ -1,0 +1,27 @@
+{
+  "id": "integration-agent/run-your-first-remote-job",
+  "title": "Run Your First Remote Job",
+  "description": "1. Select the Configurations tab and click .",
+  "source": "@site/docs/integration-agent/run-your-first-remote-job.md",
+  "sourceDirName": "integration-agent",
+  "slug": "/integration-agent/run-your-first-remote-job",
+  "permalink": "/portfolio/integration-agent/run-your-first-remote-job",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-agent/run-your-first-remote-job.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Run Your First Remote Job"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Quick Start Installation",
+    "permalink": "/portfolio/integration-agent/quickstart-install"
+  },
+  "next": {
+    "title": "Monitoring Agent Status",
+    "permalink": "/portfolio/integration-agent/monitoring-agent-status"
+  }
+}

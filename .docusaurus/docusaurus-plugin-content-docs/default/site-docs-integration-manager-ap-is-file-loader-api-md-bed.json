@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/APIs/file-loader-api",
+  "title": "DataCloud File Loader API",
+  "description": "Overview",
+  "source": "@site/docs/integration-manager/APIs/file-loader-api.md",
+  "sourceDirName": "integration-manager/APIs",
+  "slug": "/integration-manager/APIs/file-loader-api",
+  "permalink": "/portfolio/integration-manager/APIs/file-loader-api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/APIs/file-loader-api.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "DataCloud File Loader API"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "JobConfig/JobTemplate Export/Import API",
+    "permalink": "/portfolio/integration-manager/APIs/jobconfig-export-import-api"
+  },
+  "next": {
+    "title": "Salesforce.com Outbound Messaging",
+    "permalink": "/portfolio/integration-manager/APIs/sfdc-outbound-messaging-api"
+  }
+}

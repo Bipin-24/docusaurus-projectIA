@@ -1,0 +1,27 @@
+{
+  "id": "integration-agent/advanced-topics/connecting-to-other-environments",
+  "title": "Connecting to Other Environments",
+  "description": "If you need to connect to a non-production or VPC environment, follow the instructions below.",
+  "source": "@site/docs/integration-agent/advanced-topics/connecting-to-other-environments.md",
+  "sourceDirName": "integration-agent/advanced-topics",
+  "slug": "/integration-agent/advanced-topics/connecting-to-other-environments",
+  "permalink": "/portfolio/integration-agent/advanced-topics/connecting-to-other-environments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-agent/advanced-topics/connecting-to-other-environments.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Connecting to Other Environments"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Scriptable Agent Registration",
+    "permalink": "/portfolio/integration-agent/advanced-topics/scriptable-agent-registration"
+  },
+  "next": {
+    "title": "Agent Troubleshooting",
+    "permalink": "/portfolio/integration-agent/agent-troubleshooting"
+  }
+}

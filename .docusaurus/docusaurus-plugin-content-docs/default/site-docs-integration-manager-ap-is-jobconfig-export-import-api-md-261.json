@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/APIs/jobconfig-export-import-api",
+  "title": "JobConfig/JobTemplate Export/Import API",
+  "description": "This service allows an API consumer to export packages and configurations from an on-prem installation of Integration Manager and import them to the cloud, enabling you to easily migrate between deployments.",
+  "source": "@site/docs/integration-manager/APIs/jobconfig-export-import-api.md",
+  "sourceDirName": "integration-manager/APIs",
+  "slug": "/integration-manager/APIs/jobconfig-export-import-api",
+  "permalink": "/portfolio/integration-manager/APIs/jobconfig-export-import-api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/APIs/jobconfig-export-import-api.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "JobConfig/JobTemplate Export/Import API"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "JobConfig Message Listener API",
+    "permalink": "/portfolio/integration-manager/APIs/jobconfig-message-listener-api"
+  },
+  "next": {
+    "title": "DataCloud File Loader API",
+    "permalink": "/portfolio/integration-manager/APIs/file-loader-api"
+  }
+}

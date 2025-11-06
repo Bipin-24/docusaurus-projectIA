@@ -1,0 +1,25 @@
+{
+  "id": "ai-content-solutions",
+  "title": "AI in Documentation",
+  "description": "AI transforms how we create, manage, and consume technical content.",
+  "source": "@site/docs/ai-content-solutions.md",
+  "sourceDirName": ".",
+  "slug": "/ai-content-solutions",
+  "permalink": "/portfolio/ai-content-solutions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/ai-content-solutions.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Site Architecture Design",
+    "permalink": "/portfolio/site-architecture-design"
+  },
+  "next": {
+    "title": "Intelligent Authoring",
+    "permalink": "/portfolio/intelligent-authoring"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "analytics-and-metrics",
+  "title": "Analytics & Metrics",
+  "description": "I use data to guide content decisions.",
+  "source": "@site/docs/analytics-and-metrics.md",
+  "sourceDirName": ".",
+  "slug": "/analytics-and-metrics",
+  "permalink": "/portfolio/analytics-and-metrics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/analytics-and-metrics.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Content Lifecycle Management",
+    "permalink": "/portfolio/content-lifecycle"
+  },
+  "next": {
+    "title": "User Journey Analysis",
+    "permalink": "/portfolio/user-journey-analysis"
+  }
+}

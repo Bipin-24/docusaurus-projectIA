@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/configurations/creating-configuration-macros",
+  "title": "Creating Configuration Macros",
+  "description": "Configuration macros can be viewed by any user who has at least read access to the configuration. They can only be created, edited, and deleted by users with write access to the configuration, by the configuration owner, or by account admin users.",
+  "source": "@site/docs/integration-manager/configurations/creating-configuration-macros.md",
+  "sourceDirName": "integration-manager/configurations",
+  "slug": "/integration-manager/configurations/creating-configuration-macros",
+  "permalink": "/portfolio/integration-manager/configurations/creating-configuration-macros",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/configurations/creating-configuration-macros.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Creating Configuration Macros"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Deleting Configurations",
+    "permalink": "/portfolio/integration-manager/configurations/deleting-configurations"
+  },
+  "next": {
+    "title": "Importing Configuration Macros",
+    "permalink": "/portfolio/integration-manager/configurations/importing-configuration-macros"
+  }
+}

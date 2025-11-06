@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/configurations/creating-configurations",
+  "title": "Creating Configurations",
+  "description": "Creating Configurations Manually",
+  "source": "@site/docs/integration-manager/configurations/creating-configurations.md",
+  "sourceDirName": "integration-manager/configurations",
+  "slug": "/integration-manager/configurations/creating-configurations",
+  "permalink": "/portfolio/integration-manager/configurations/creating-configurations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/configurations/creating-configurations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Creating Configurations"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Importing Configurations",
+    "permalink": "/portfolio/integration-manager/configurations/importing-configurations"
+  },
+  "next": {
+    "title": "Editing Configuration Details",
+    "permalink": "/portfolio/integration-manager/configurations/editing-configuration-details"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "metadata-taxonomy",
+  "title": "Metadata & Taxonomy Design",
+  "description": "Metadata is the backbone of content findability.",
+  "source": "@site/docs/metadata-taxonomy.md",
+  "sourceDirName": ".",
+  "slug": "/metadata-taxonomy",
+  "permalink": "/portfolio/metadata-taxonomy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/metadata-taxonomy.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "IA Frameworks",
+    "permalink": "/portfolio/ia-frameworks"
+  },
+  "next": {
+    "title": "Content Reuse Models",
+    "permalink": "/portfolio/content-reuse-models"
+  }
+}

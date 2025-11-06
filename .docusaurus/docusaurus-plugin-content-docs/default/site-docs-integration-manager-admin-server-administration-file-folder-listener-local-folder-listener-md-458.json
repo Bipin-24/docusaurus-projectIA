@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/server-administration/file-folder-listener/local-folder-listener",
+  "title": "Local Folder Listener",
+  "description": "The Local Folder Listener monitors file folders for files and will execute a pre-defined Job Configuration (config-id) when triggered.",
+  "source": "@site/docs/integration-manager/admin/server-administration/file-folder-listener/local-folder-listener.md",
+  "sourceDirName": "integration-manager/admin/server-administration/file-folder-listener",
+  "slug": "/integration-manager/admin/server-administration/file-folder-listener/local-folder-listener",
+  "permalink": "/portfolio/integration-manager/admin/server-administration/file-folder-listener/local-folder-listener",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/server-administration/file-folder-listener/local-folder-listener.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Local Folder Listener"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "File Folder Listener Service",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/file-folder-listener/file-folder-listener-service"
+  },
+  "next": {
+    "title": "AWS S3 Bucket Listener",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/file-folder-listener/aws-s3-bucket-listener"
+  }
+}

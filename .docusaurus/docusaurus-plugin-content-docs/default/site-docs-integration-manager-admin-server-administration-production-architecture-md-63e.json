@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/server-administration/production-architecture",
+  "title": "Production Architecture",
+  "description": "The following are high-level recommendations only. Actual production deployments should be examined for many other factors, including but not limited to desired workload.",
+  "source": "@site/docs/integration-manager/admin/server-administration/production-architecture.md",
+  "sourceDirName": "integration-manager/admin/server-administration",
+  "slug": "/integration-manager/admin/server-administration/production-architecture",
+  "permalink": "/portfolio/integration-manager/admin/server-administration/production-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/server-administration/production-architecture.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Production Architecture"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Server Administration",
+    "permalink": "/portfolio/category/server-administration"
+  },
+  "next": {
+    "title": "Production Configuration",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/production-configuration"
+  }
+}

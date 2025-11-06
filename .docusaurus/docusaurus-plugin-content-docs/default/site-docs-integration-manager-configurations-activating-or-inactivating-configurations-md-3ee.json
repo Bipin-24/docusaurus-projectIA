@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/configurations/activating-or-inactivating-configurations",
+  "title": "Activating or Inactivating Configurations",
+  "description": "In order to run a configuration, its status must be Active. Setting the configuration status to Inactive allows you to disable the configuration without deleting it. You can reactivate it later when needed by setting the status back to Active.",
+  "source": "@site/docs/integration-manager/configurations/activating-or-inactivating-configurations.md",
+  "sourceDirName": "integration-manager/configurations",
+  "slug": "/integration-manager/configurations/activating-or-inactivating-configurations",
+  "permalink": "/portfolio/integration-manager/configurations/activating-or-inactivating-configurations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/configurations/activating-or-inactivating-configurations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Activating or Inactivating Configurations"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Editing Configuration Details",
+    "permalink": "/portfolio/integration-manager/configurations/editing-configuration-details"
+  },
+  "next": {
+    "title": "Duplicating Configurations",
+    "permalink": "/portfolio/integration-manager/configurations/duplicating-configurations"
+  }
+}

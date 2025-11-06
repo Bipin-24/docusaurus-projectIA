@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/agents-and-devices/download-agent",
+  "title": "Downloading Integration Agent",
+  "description": "You can download the installer from the Agents and Devices page:",
+  "source": "@site/docs/integration-manager/agents-and-devices/download-agent.md",
+  "sourceDirName": "integration-manager/agents-and-devices",
+  "slug": "/integration-manager/agents-and-devices/download-agent",
+  "permalink": "/portfolio/integration-manager/agents-and-devices/download-agent",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/agents-and-devices/download-agent.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Downloading Integration Agent"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Managing Agents and Devices",
+    "permalink": "/portfolio/integration-manager/agents-and-devices/managing-agents-and-devices"
+  },
+  "next": {
+    "title": "Executing a Configuration with an Agent",
+    "permalink": "/portfolio/integration-manager/agents-and-devices/execute-config-with-agent"
+  }
+}

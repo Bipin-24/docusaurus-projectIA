@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/access-control/access-control-polices",
+  "title": "Access Control Policies",
+  "description": "By default, non-admin users only have access to JobTemplates and JobConfigs they create. You can grant additional privileges and share artifacts across users by using Access Control Policies.",
+  "source": "@site/docs/integration-manager/admin/access-control/access-control-polices.md",
+  "sourceDirName": "integration-manager/admin/access-control",
+  "slug": "/integration-manager/admin/access-control/access-control-polices",
+  "permalink": "/portfolio/integration-manager/admin/access-control/access-control-polices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/access-control/access-control-polices.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Access Control Policies"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "User Management",
+    "permalink": "/portfolio/integration-manager/admin/access-control/user-management"
+  },
+  "next": {
+    "title": "JobConfig Listener Aliasing",
+    "permalink": "/portfolio/integration-manager/admin/access-control/jobconfig-aliasing"
+  }
+}

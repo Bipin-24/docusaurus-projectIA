@@ -1,0 +1,27 @@
+{
+  "id": "feedback",
+  "title": "Feedback and Support",
+  "description": "We welcome and encourage your feedback on the platform and documentation. Feedback from the user community plays an important role in improving the product.",
+  "source": "@site/docs/feedback.md",
+  "sourceDirName": ".",
+  "slug": "/feedback",
+  "permalink": "/portfolio/feedback",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/feedback.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Feedback and Support"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Copyright Information",
+    "permalink": "/portfolio/copyright"
+  },
+  "next": {
+    "title": "Quick Start Installation",
+    "permalink": "/portfolio/integration-manager/quickstart-install"
+  }
+}

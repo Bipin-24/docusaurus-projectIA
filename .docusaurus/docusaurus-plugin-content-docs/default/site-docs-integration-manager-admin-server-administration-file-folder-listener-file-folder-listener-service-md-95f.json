@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/server-administration/file-folder-listener/file-folder-listener-service",
+  "title": "File Folder Listener Service",
+  "description": "The File Folder Listener Service is used to monitor file directories or cloud storage buckets/containers for new files.",
+  "source": "@site/docs/integration-manager/admin/server-administration/file-folder-listener/file-folder-listener-service.md",
+  "sourceDirName": "integration-manager/admin/server-administration/file-folder-listener",
+  "slug": "/integration-manager/admin/server-administration/file-folder-listener/file-folder-listener-service",
+  "permalink": "/portfolio/integration-manager/admin/server-administration/file-folder-listener/file-folder-listener-service",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/server-administration/file-folder-listener/file-folder-listener-service.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "File Folder Listener Service"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Actian Integration Manager Worker",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/worker-install"
+  },
+  "next": {
+    "title": "Local Folder Listener",
+    "permalink": "/portfolio/integration-manager/admin/server-administration/file-folder-listener/local-folder-listener"
+  }
+}

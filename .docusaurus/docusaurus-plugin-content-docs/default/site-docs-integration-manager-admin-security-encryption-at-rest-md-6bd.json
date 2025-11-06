@@ -1,0 +1,27 @@
+{
+  "id": "integration-manager/admin/security/encryption-at-rest",
+  "title": "Encryption-at-Rest",
+  "description": "Macro values often contain sensitive data. To prevent exposure, it is best practice to encrypt these values at rest, meaning at the database level.",
+  "source": "@site/docs/integration-manager/admin/security/encryption-at-rest.md",
+  "sourceDirName": "integration-manager/admin/security",
+  "slug": "/integration-manager/admin/security/encryption-at-rest",
+  "permalink": "/portfolio/integration-manager/admin/security/encryption-at-rest",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/security/encryption-at-rest.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Encryption-at-Rest"
+  },
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Enabling HTTPS",
+    "permalink": "/portfolio/integration-manager/admin/security/enabling-https"
+  },
+  "next": {
+    "title": "Configuring Access Token Signatures",
+    "permalink": "/portfolio/integration-manager/admin/security/access-token-signatures"
+  }
+}

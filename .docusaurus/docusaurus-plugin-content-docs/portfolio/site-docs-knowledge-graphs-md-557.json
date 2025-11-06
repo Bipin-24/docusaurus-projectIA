@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-graphs",
+  "title": "Knowledge Graphs in Documentation",
+  "description": "Knowledge graphs connect content, context, and concepts.",
+  "source": "@site/docs/knowledge-graphs.md",
+  "sourceDirName": ".",
+  "slug": "/knowledge-graphs",
+  "permalink": "/portfolio/knowledge-graphs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/knowledge-graphs.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Search Optimization using AI",
+    "permalink": "/portfolio/search-optimization-ai"
+  },
+  "next": {
+    "title": "Content Strategy",
+    "permalink": "/portfolio/content-strategy"
+  }
+}

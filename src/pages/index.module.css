@@ -1,23 +1,124 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3rem 2rem;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
-}
-
-.buttons {
+/* Hero Section */
+.hero {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding: 4rem 0;
+}
+
+.heroContent {
+  max-width: 600px;
+}
+
+.heroTitle {
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+  margin-bottom: 1rem;
+}
+
+.heroSubtitle {
+  font-size: 1.2rem;
+  line-height: 1.7;
+  color: var(--ifm-font-color-base);
+}
+
+.heroButtons {
+  margin-top: 1.8rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.heroImage {
+  width: 340px;
+  border-radius: 50%;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Z Pattern Section */
+.cardsSection {
+  width: 70%;
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+}
+
+.cardRow,
+.cardRowReverse {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.cardRowReverse {
+  flex-direction: row-reverse;
+}
+
+/* ✅ Adjusted width and clickable appearance */
+.card {
+  flex: 1;
+  background: #ffffff10;
+  border: 1px solid #e3e3e3;
+  border-radius: 20px;
+  padding: 1.5rem;
+  width: 40%; /* 👈 Slightly smaller width */
+  min-width: 240px;
+  text-decoration: none;
+  backdrop-filter: blur(6px);
+  transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  background: #ffffff20;
+}
+
+.card h3 {
+  color: var(--ifm-color-primary);
+  margin-bottom: 0.6rem;
+}
+
+.card p {
+  font-size: 1rem;
+  color: var(--ifm-font-color-secondary);
+}
+
+.card.alt {
+  background: var(--ifm-color-primary);
+  color: white;
+}
+
+.card.alt h3 {
+  color: white;
+}
+
+@media screen and (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .heroImage {
+    margin-top: 2rem;
+  }
+
+  .cardRow,
+  .cardRowReverse {
+    flex-direction: column;
+  }
+
+  .card {
+    width: 100%;
+  }
 }

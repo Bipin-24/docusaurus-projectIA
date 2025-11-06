@@ -1,0 +1,18 @@
+{
+  "id": "integration-manager/admin/managing-job-execution-history",
+  "title": "Managing Job Execution History",
+  "description": "You can control the amount of job history that Integration Manager maintains by date, volume, or both, depending on your needs.",
+  "source": "@site/docs/integration-manager/admin/managing-job-execution-history.md",
+  "sourceDirName": "integration-manager/admin",
+  "slug": "/integration-manager/admin/managing-job-execution-history",
+  "permalink": "/portfolio/integration-manager/admin/managing-job-execution-history",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/integration-manager/admin/managing-job-execution-history.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Managing Job Execution History"
+  }
+}
