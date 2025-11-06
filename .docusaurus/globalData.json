@@ -12,8 +12,7 @@
           "docs": [
             {
               "id": "about",
-              "path": "/portfolio/about",
-              "sidebar": "portfolioSidebar"
+              "path": "/portfolio/about"
             },
             {
               "id": "achievements",

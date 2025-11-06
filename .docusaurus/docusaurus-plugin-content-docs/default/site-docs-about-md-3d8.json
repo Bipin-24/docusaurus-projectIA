@@ -11,15 +11,6 @@
   "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/about.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
-  "frontMatter": {},
-  "sidebar": "portfolioSidebar",
-  "previous": {
-    "title": "Overview",
-    "permalink": "/portfolio/intro"
-  },
-  "next": {
-    "title": "Information Architecture Strategy",
-    "permalink": "/portfolio/ia-strategy"
-  }
+  "lastUpdatedAt": 1762458609000,
+  "frontMatter": {}
 }

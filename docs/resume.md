@@ -34,5 +34,5 @@ description: Bipin Pandey — Resume (summary)
 ---
 
 ## Download
-You can add a PDF here (copy your resume to `static/resume.pdf`) and link:
-[Download PDF resume](../static/resume.pdf)
+You can add a PDF here (copy your resume to `/static/resume.pdf`) and link:
+[Download PDF resume](/resume.pdf)

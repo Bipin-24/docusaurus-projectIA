@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkintegration_platform_docs=self.webpackChunkintegration_platform_docs||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Insights & AI in Information Architecture","authorsListPath":"/blog/authors"}')}}]);
