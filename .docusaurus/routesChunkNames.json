@@ -1,316 +1,273 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/about-cc7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---aboute-0-a-ad5"
+      "plugin": "e0aa9ae8"
     },
-    "content": "content---about-230-2fe"
+    "content": "230402f8"
   },
   "/blog-725": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       }
     ],
-    "__props": "__props---blogc-15-573"
+    "__props": "c15d9823"
   },
   "/blog/ai-in-documentation-970": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-ai-in-documentationace-442"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-ai-in-documentationd-9-f-913"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/blog/archive-182": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "__props": "__props---blog-archivef-81-229"
+    "__props": "f81c1134"
   },
   "/blog/authors-0b7": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__comp": "621db11d",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-ai-in-documentationace-442"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
+    "sidebar": "814f3328",
+    "__props": "ef8b811a"
   },
   "/blog/authors/all-sebastien-lorber-articles-495": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-ai-in-documentationace-442"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
     "items": [],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-all-sebastien-lorber-articlesc-9-c-639"
+    "sidebar": "814f3328",
+    "__props": "c9c9bef8"
   },
   "/blog/authors/yangshun-7c6": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-ai-in-documentationace-442"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
     "items": [],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-yangshun-1-de-d0c"
+    "sidebar": "814f3328",
+    "__props": "1dea6ca3"
   },
   "/blog/tags-287": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-tags-3-a-2-fa2"
+    "sidebar": "814f3328",
+    "__props": "3a2db09e"
   },
   "/blog/tags/ai-21d": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       }
     ],
-    "__props": "__props---blog-tags-ai-65-a-ec1"
+    "__props": "65a6d713"
   },
   "/blog/tags/content-strategy-46b": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       }
     ],
-    "__props": "__props---blog-tags-content-strategy-0-ee-275"
+    "__props": "0eed0f8b"
   },
   "/blog/tags/documentation-69e": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       }
     ],
-    "__props": "__props---blog-tags-documentationaf-8-3c5"
+    "__props": "af8066c0"
   },
   "/blog/tags/information-architecture-b9e": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       }
     ],
-    "__props": "__props---blog-tags-information-architecture-41-e-9da"
+    "__props": "41ecfb7d"
   },
   "/legal-d80": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---legala-74-dcd"
+      "plugin": "a7456010"
     },
-    "content": "content---legale-5-f-2c1"
+    "content": "e5f097e5"
   },
   "/markdown-page-3d7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---legala-74-dcd"
+      "plugin": "a7456010"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
-  "/portfolio-c72": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/portfolio-57f": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---portfolioaba-c02"
+      "plugin": "aba21aa0"
     }
   },
-  "/portfolio-941": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---portfolioeb-1-4b2"
+  "/portfolio-230": {
+    "__comp": "a7bd4aaa",
+    "__props": "eb194d10"
   },
-  "/portfolio-075": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/portfolio-eef": {
+    "__comp": "a94703ab"
   },
-  "/portfolio/about-608": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-about-3-d-8-e65"
+  "/portfolio/about-a6d": {
+    "__comp": "17896441",
+    "content": "3d8d21df"
   },
-  "/portfolio/achievements-359": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-achievements-417-da2"
+  "/portfolio/achievements-113": {
+    "__comp": "17896441",
+    "content": "4175d19c"
   },
-  "/portfolio/ai-content-solutions-473": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-ai-content-solutions-278-e9c"
+  "/portfolio/ai-content-solutions-650": {
+    "__comp": "17896441",
+    "content": "27892cb8"
   },
-  "/portfolio/analytics-and-metrics-f46": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-analytics-and-metrics-991-326"
+  "/portfolio/analytics-and-metrics-45f": {
+    "__comp": "17896441",
+    "content": "99152820"
   },
-  "/portfolio/career-timeline-b02": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-career-timelinea-02-012"
+  "/portfolio/career-timeline-dc1": {
+    "__comp": "17896441",
+    "content": "a027ddd0"
   },
-  "/portfolio/contact-e0a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-contact-32-d-38a"
+  "/portfolio/contact-fbf": {
+    "__comp": "17896441",
+    "content": "32dd35a8"
   },
-  "/portfolio/content-classification-f52": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-content-classificationa-39-953"
+  "/portfolio/content-classification-081": {
+    "__comp": "17896441",
+    "content": "a391b550"
   },
-  "/portfolio/content-lifecycle-8db": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-content-lifecycle-2-a-5-8c2"
+  "/portfolio/content-lifecycle-058": {
+    "__comp": "17896441",
+    "content": "2a564215"
   },
-  "/portfolio/content-performance-dashboard-be4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-content-performance-dashboardc-7-f-aa0"
+  "/portfolio/content-performance-dashboard-ce1": {
+    "__comp": "17896441",
+    "content": "c7fe4148"
   },
-  "/portfolio/content-reuse-models-e37": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-content-reuse-modelsce-5-fc7"
+  "/portfolio/content-reuse-models-91c": {
+    "__comp": "17896441",
+    "content": "ce5f0f77"
   },
-  "/portfolio/content-strategy-b8f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-content-strategyc-00-137"
+  "/portfolio/content-strategy-4aa": {
+    "__comp": "17896441",
+    "content": "c0093c48"
   },
-  "/portfolio/governance-models-41c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-governance-models-192-5a7"
+  "/portfolio/governance-models-658": {
+    "__comp": "17896441",
+    "content": "1928434e"
   },
-  "/portfolio/ia-frameworks-f80": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-ia-frameworks-729-d7e"
+  "/portfolio/ia-frameworks-7ae": {
+    "__comp": "17896441",
+    "content": "72933cb8"
   },
-  "/portfolio/ia-strategy-539": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-ia-strategy-600-cbe"
+  "/portfolio/ia-strategy-d70": {
+    "__comp": "17896441",
+    "content": "600bdb3b"
   },
-  "/portfolio/intelligent-authoring-18b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-intelligent-authoringf-94-f8a"
+  "/portfolio/intelligent-authoring-498": {
+    "__comp": "17896441",
+    "content": "f946186b"
   },
-  "/portfolio/intro-746": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-intro-0-e-3-0b3"
+  "/portfolio/intro-102": {
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
-  "/portfolio/knowledge-graphs-da7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-knowledge-graphs-557-865"
+  "/portfolio/knowledge-graphs-799": {
+    "__comp": "17896441",
+    "content": "557d3fb0"
   },
-  "/portfolio/metadata-taxonomy-7cf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-metadata-taxonomy-50-a-c8b"
+  "/portfolio/metadata-taxonomy-9da": {
+    "__comp": "17896441",
+    "content": "50acef8e"
   },
-  "/portfolio/projects-showcase-4d3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-projects-showcase-5-b-7-04f"
+  "/portfolio/projects-showcase-813": {
+    "__comp": "17896441",
+    "content": "5b7ee244"
   },
-  "/portfolio/resume-fba": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-resume-62-f-3e5"
+  "/portfolio/resume-e22": {
+    "__comp": "17896441",
+    "content": "62f03775"
   },
-  "/portfolio/search-optimization-ai-9b0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-search-optimization-aib-46-b13"
+  "/portfolio/search-optimization-ai-ed1": {
+    "__comp": "17896441",
+    "content": "b46b5a0c"
   },
-  "/portfolio/search-patterns-4d7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-search-patterns-29-e-fa4"
+  "/portfolio/search-patterns-458": {
+    "__comp": "17896441",
+    "content": "29ec11af"
   },
-  "/portfolio/seo-optimization-c5c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-seo-optimizationf-9-e-bdc"
+  "/portfolio/seo-optimization-70d": {
+    "__comp": "17896441",
+    "content": "f9e38c0e"
   },
-  "/portfolio/site-architecture-design-09c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-site-architecture-design-5-df-c7a"
+  "/portfolio/site-architecture-design-d9d": {
+    "__comp": "17896441",
+    "content": "5dfa9b7b"
   },
-  "/portfolio/style-guides-1c7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-style-guidesa-0-a-e22"
+  "/portfolio/style-guides-a90": {
+    "__comp": "17896441",
+    "content": "a0a4bcb2"
   },
-  "/portfolio/user-journey-analysis-8a0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-user-journey-analysisfd-4-73d"
+  "/portfolio/user-journey-analysis-bce": {
+    "__comp": "17896441",
+    "content": "fd4ad2f6"
   },
   "/-2e1": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---legala-74-dcd"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }

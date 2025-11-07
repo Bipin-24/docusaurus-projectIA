@@ -44,4 +44,4 @@ My mission: *“Design content that doesn’t wait for query—it anticipates it
 
 📫 **Let’s talk.**  
 Whether you’re building your first large-scale documentation ecosystem, introducing AI to your authoring process, or optimizing discoverability in a global product suite—let’s connect and build the future of docs together.  
-[Contact me →](/contact)  
+

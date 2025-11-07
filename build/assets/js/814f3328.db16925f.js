@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkintegration_platform_docs=self.webpackChunkintegration_platform_docs||[]).push([[7472],{5513:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"How AI is Transforming Technical Documentation","permalink":"/blog/ai-in-documentation","unlisted":false,"date":"2021-08-26T00:00:00.000Z"}]}')}}]);
