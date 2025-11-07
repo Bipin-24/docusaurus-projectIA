@@ -47,11 +47,7 @@
   },
   "unlisted": false,
   "prevItem": {
-    "title": "MDX Blog Post",
-    "permalink": "/blog/mdx-blog-post"
-  },
-  "nextItem": {
-    "title": "First Blog Post",
-    "permalink": "/blog/first-blog-post"
+    "title": "mdx-blog-post",
+    "permalink": "/blog/2021/08/01/mdx-blog-post"
   }
 }

@@ -1,29 +1,46 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+title: "How AI is Transforming Technical Documentation"
+description: "Exploring the role of AI and LLMs in redefining the way we design, deliver, and measure documentation experiences."
+slug: ai-in-documentation
+tags: [AI, Documentation, Information Architecture, Content Strategy]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+## How AI is Transforming Technical Documentation
 
-Here are a few tips you might find useful.
+The documentation world is changing — and AI is leading that transformation.  
+Where technical writers once focused on manual authoring, tagging, and publishing, today’s content ecosystems are **intelligent, adaptive, and data-driven**.
 
-<!-- truncate -->
+---
 
-Simply add Markdown files (or folders) to the `blog` directory.
+### 🧠 From Authoring to Automation
+Modern content teams are integrating **LLMs (Large Language Models)** and **RAG (Retrieval-Augmented Generation)** frameworks to automate metadata tagging, content summaries, and even contextual assistance within docs.  
+This shift allows documentation to become **self-organizing and user-aware** — reducing redundancy and accelerating updates.
 
-Regular blog authors can be added to `authors.yml`.
+---
 
-The blog post date can be extracted from filenames, such as:
+### 🔍 AI-Powered Discoverability
+Search is no longer just keyword matching.  
+With AI-driven semantic search and vector-based indexing, documentation systems can understand *intent* rather than text. This means users can ask questions naturally — and get relevant answers instantly.
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+---
 
-A blog post folder can be convenient to co-locate blog post images:
+### 📊 Data as a Design Tool
+AI helps decode user behavior — from scroll depth to click heatmaps — turning engagement data into actionable insights.  
+As an Information Architect, this means your taxonomy and content model evolve dynamically, guided by real usage rather than assumptions.
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+---
 
-The blog supports tags as well!
+### 🚀 The Future of Documentation
+Tomorrow’s documentation will:
+- Personalize content in real time  
+- Auto-summarize technical workflows  
+- Integrate with conversational interfaces (chatbots, voice, AR)  
+- Measure effectiveness continuously  
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+The result?  
+Documentation that **thinks, learns, and adapts** — just like the products it supports.
+
+---
+
+**Author:** [Bipin Pandey](https://bipin-pandey-portfolio.netlify.app/)  
+Information Architect | AI Documentation Strategist

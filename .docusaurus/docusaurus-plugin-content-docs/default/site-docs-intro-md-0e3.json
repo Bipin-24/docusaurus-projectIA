@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "Portfolio Overview",
-  "description": "Welcome to my professional portfolio — a collection of my work, insights, and strategy frameworks as a Strategic Content Manager and Information Architect.",
+  "title": "Introduction",
+  "description": "I’m Bipin Pandey",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -11,8 +11,11 @@
   "editUrl": "https://github.com/Bipin-24/portfolio-site/edit/main/docs/intro.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1762458609000,
-  "frontMatter": {},
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Introduction",
+    "slug": "intro"
+  },
   "sidebar": "portfolioSidebar",
   "next": {
     "title": "Information Architecture Strategy",

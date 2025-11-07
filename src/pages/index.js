@@ -1,95 +1,138 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
-import { motion } from 'framer-motion';
 import styles from './index.module.css';
 
 export default function Home() {
+  useEffect(() => {
+    // Scroll reveal animation for smooth fade-in on scroll
+    const reveals = document.querySelectorAll(`.${styles.revealOnScroll}`);
+    const revealOnScroll = () => {
+      reveals.forEach((el) => {
+        const rect = el.getBoundingClientRect();
+        if (rect.top < window.innerHeight - 100) {
+          el.classList.add(styles.visible);
+        }
+      });
+    };
+    window.addEventListener('scroll', revealOnScroll);
+    revealOnScroll();
+    return () => window.removeEventListener('scroll', revealOnScroll);
+  }, []);
+
   return (
     <Layout
-      title="Bipin Pandey | Information Architect & AI Strategist"
-      description="Portfolio of Bipin Pandey - Information Architect, AI in Documentation, and Strategic Content Manager."
+      title="Bipin Pandey — Information Architect & AI Strategist"
+      description="Portfolio of Bipin Pandey — Information Architect, AI Strategist, and Content Experience Leader"
     >
       <main className={styles.main}>
-        {/* Hero Section */}
+        {/* --- Hero Section --- */}
         <section className={styles.hero}>
-          <motion.div
-            className={styles.heroContent}
-            initial={{ opacity: 0, y: 40 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.9 }}
-          >
-            <h1 className={styles.heroTitle}>Designing Information that Drives Clarity</h1>
-            <p className={styles.heroSubtitle}>
-              I’m <strong>Bipin Pandey</strong> — an Information Architect and Strategic Content Manager
-              integrating <strong>AI</strong> into documentation to deliver structured, intelligent, and
-              findable knowledge experiences.
-            </p>
-            <div className={styles.heroButtons}>
-              <Link className="button button--primary button--lg" to="/portfolio/intro">
-                Explore Portfolio
-              </Link>
-              <Link className="button button--secondary button--lg" to="/about">
-                About Me
-              </Link>
+          <div className={styles.heroContent}>
+            <div className={`${styles.heroText} ${styles.revealOnScroll}`}>
+              <h2 className={styles.heroSubTitle}>
+                Designing Information that Drives Clarity
+              </h2>
+              <h1 className={styles.title}>
+                Hi, I’m <span>Bipin Pandey</span>.
+              </h1>
+              <p className={styles.subtitle}>
+                I design intelligent content systems and scalable documentation experiences
+                powered by <strong>Information Architecture</strong> and <strong>AI-driven automation</strong>.
+              </p>
+              <div className={styles.cta}>
+                <Link className="button button--primary" to="/about">
+                  About Me
+                </Link>
+                <Link className="button button--secondary" to="/portfolio/intro">
+                  View Portfolio
+                </Link>
+              </div>
             </div>
-          </motion.div>
-          <motion.img
-            src="/img/bipin-profile.png"
-            alt="Bipin Pandey"
-            className={styles.heroImage}
-            initial={{ opacity: 0, x: 100 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 1 }}
-          />
+            <div className={styles.heroImage}>
+              <img src="/img/bipin-profile.png" alt="Bipin Pandey" />
+            </div>
+          </div>
         </section>
 
-        {/* Z-Pattern Cards */}
-        <section className={styles.cardsSection}>
-          <div className={styles.cardRow}>
-            <Link to="/portfolio/ia-strategy" className={styles.card}>
-              <motion.div whileHover={{ scale: 1.05 }}>
-                <h3>Information Architecture</h3>
-                <p>
-                  Designing documentation ecosystems that enhance navigation, content discoverability,
-                  and user experience.
-                </p>
-              </motion.div>
-            </Link>
-
-            <Link to="/portfolio/ai-content-solutions" className={`${styles.card} ${styles.alt}`}>
-              <motion.div whileHover={{ scale: 1.05 }}>
-                <h3>AI in Documentation</h3>
-                <p>
-                  Implementing intelligent content frameworks and metadata-driven search to make
-                  content smart and context-aware.
-                </p>
-              </motion.div>
+        {/* --- Card Section --- */}
+        <section className={styles.grid}>
+          <div className={styles.card}>
+            <h2>Information Architecture</h2>
+            <p>
+              Structuring documentation ecosystems for clarity, scalability, and reusability.
+              I specialize in modular content design and taxonomy systems across multi-product portals.
+            </p>
+            <Link to="/portfolio/ia-strategy" className={styles.link}>
+              Explore IA Work →
             </Link>
           </div>
 
-          <div className={styles.cardRowReverse}>
-            <Link to="/portfolio/content-strategy" className={styles.card}>
-              <motion.div whileHover={{ scale: 1.05 }}>
-                <h3>Content Strategy</h3>
-                <p>
-                  Building end-to-end strategies for content creation, governance, and automation
-                  using modern documentation pipelines.
-                </p>
-              </motion.div>
+          <div className={styles.card}>
+            <h2>AI in Documentation</h2>
+            <p>
+              Applying AI and LLMs to automate metadata, improve search relevance, and enhance authoring efficiency.
+              Exploring intelligent knowledge delivery.
+            </p>
+            <Link to="/portfolio/ai-content-solutions" className={styles.link}>
+              See AI Solutions →
             </Link>
+          </div>
 
-            <Link to="/portfolio/analytics-and-metrics" className={`${styles.card} ${styles.alt}`}>
-              <motion.div whileHover={{ scale: 1.05 }}>
-                <h3>Analytics & Metrics</h3>
-                <p>
-                  Optimizing documentation using data insights and analytics to drive content
-                  discoverability and performance.
-                </p>
-              </motion.div>
+          <div className={styles.card}>
+            <h2>Content Strategy & Experience</h2>
+            <p>
+              Building unified documentation experiences with clear user journeys, versioning, and SEO optimization.
+              Driving strategy that connects users to content seamlessly.
+            </p>
+            <Link to="/portfolio/content-strategy" className={styles.link}>
+              View Strategy Work →
+            </Link>
+          </div>
+
+          <div className={styles.card}>
+            <h2>Analytics & Insights</h2>
+            <p>
+              Leveraging analytics to understand content engagement, discoverability, and performance.
+              Turning data into actionable documentation strategy.
+            </p>
+            <Link to="/portfolio/analytics-and-metrics" className={styles.link}>
+              View Analytics →
             </Link>
           </div>
         </section>
+
+        {/* --- Blog Preview Section --- */}
+        <section className={styles.blogPreview}>
+          <h2>Latest Insights</h2>
+          <p>
+            Thoughts on AI, content architecture, and the evolving documentation landscape.
+          </p>
+          <Link className={styles.blogLink} to="/blog">
+            Read Blog →
+          </Link>
+        </section>
+
+        {/* --- Footer --- */}
+        <footer className={styles.footer}>
+          <p>© {new Date().getFullYear()} Bipin Pandey</p>
+          <div className={styles.social}>
+            <a
+              href="https://github.com/Bipin-24"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              GitHub
+            </a>
+            <a
+              href="https://www.linkedin.com/in/bipin-pandey-3594961a/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              LinkedIn
+            </a>
+          </div>
+        </footer>
       </main>
     </Layout>
   );

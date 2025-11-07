@@ -3,13 +3,53 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/about',
     component: ComponentCreator('/about', 'cc7'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'b2f'),
+    component: ComponentCreator('/blog', '725'),
+    exact: true
+  },
+  {
+    path: '/blog/ai-in-documentation',
+    component: ComponentCreator('/blog/ai-in-documentation', '970'),
     exact: true
   },
   {
@@ -24,27 +64,12 @@ export default [
   },
   {
     path: '/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '4a1'),
+    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '495'),
     exact: true
   },
   {
     path: '/blog/authors/yangshun',
-    component: ComponentCreator('/blog/authors/yangshun', 'a68'),
-    exact: true
-  },
-  {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '89a'),
-    exact: true
-  },
-  {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9ad'),
-    exact: true
-  },
-  {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
+    component: ComponentCreator('/blog/authors/yangshun', '7c6'),
     exact: true
   },
   {
@@ -53,28 +78,23 @@ export default [
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '704'),
+    path: '/blog/tags/ai',
+    component: ComponentCreator('/blog/tags/ai', '21d'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '858'),
+    path: '/blog/tags/content-strategy',
+    component: ComponentCreator('/blog/tags/content-strategy', '46b'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '299'),
+    path: '/blog/tags/documentation',
+    component: ComponentCreator('/blog/tags/documentation', '69e'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '00d'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd2b'),
+    path: '/blog/tags/information-architecture',
+    component: ComponentCreator('/blog/tags/information-architecture', 'b9e'),
     exact: true
   },
   {
@@ -89,167 +109,167 @@ export default [
   },
   {
     path: '/portfolio',
-    component: ComponentCreator('/portfolio', '8f5'),
+    component: ComponentCreator('/portfolio', 'c72'),
     routes: [
       {
         path: '/portfolio',
-        component: ComponentCreator('/portfolio', '4df'),
+        component: ComponentCreator('/portfolio', '941'),
         routes: [
           {
             path: '/portfolio',
-            component: ComponentCreator('/portfolio', 'fee'),
+            component: ComponentCreator('/portfolio', '075'),
             routes: [
               {
                 path: '/portfolio/about',
-                component: ComponentCreator('/portfolio/about', 'a6d'),
+                component: ComponentCreator('/portfolio/about', '608'),
                 exact: true
               },
               {
                 path: '/portfolio/achievements',
-                component: ComponentCreator('/portfolio/achievements', '113'),
+                component: ComponentCreator('/portfolio/achievements', '359'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/ai-content-solutions',
-                component: ComponentCreator('/portfolio/ai-content-solutions', '650'),
+                component: ComponentCreator('/portfolio/ai-content-solutions', '473'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/analytics-and-metrics',
-                component: ComponentCreator('/portfolio/analytics-and-metrics', '45f'),
+                component: ComponentCreator('/portfolio/analytics-and-metrics', 'f46'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/career-timeline',
-                component: ComponentCreator('/portfolio/career-timeline', 'dc1'),
+                component: ComponentCreator('/portfolio/career-timeline', 'b02'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/contact',
-                component: ComponentCreator('/portfolio/contact', 'fbf'),
+                component: ComponentCreator('/portfolio/contact', 'e0a'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/content-classification',
-                component: ComponentCreator('/portfolio/content-classification', '081'),
+                component: ComponentCreator('/portfolio/content-classification', 'f52'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/content-lifecycle',
-                component: ComponentCreator('/portfolio/content-lifecycle', '058'),
+                component: ComponentCreator('/portfolio/content-lifecycle', '8db'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/content-performance-dashboard',
-                component: ComponentCreator('/portfolio/content-performance-dashboard', 'ce1'),
+                component: ComponentCreator('/portfolio/content-performance-dashboard', 'be4'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/content-reuse-models',
-                component: ComponentCreator('/portfolio/content-reuse-models', '91c'),
+                component: ComponentCreator('/portfolio/content-reuse-models', 'e37'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/content-strategy',
-                component: ComponentCreator('/portfolio/content-strategy', '4aa'),
+                component: ComponentCreator('/portfolio/content-strategy', 'b8f'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/governance-models',
-                component: ComponentCreator('/portfolio/governance-models', '658'),
+                component: ComponentCreator('/portfolio/governance-models', '41c'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/ia-frameworks',
-                component: ComponentCreator('/portfolio/ia-frameworks', '7ae'),
+                component: ComponentCreator('/portfolio/ia-frameworks', 'f80'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/ia-strategy',
-                component: ComponentCreator('/portfolio/ia-strategy', 'd70'),
+                component: ComponentCreator('/portfolio/ia-strategy', '539'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/intelligent-authoring',
-                component: ComponentCreator('/portfolio/intelligent-authoring', '498'),
+                component: ComponentCreator('/portfolio/intelligent-authoring', '18b'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/intro',
-                component: ComponentCreator('/portfolio/intro', '0c3'),
+                component: ComponentCreator('/portfolio/intro', '746'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/knowledge-graphs',
-                component: ComponentCreator('/portfolio/knowledge-graphs', '799'),
+                component: ComponentCreator('/portfolio/knowledge-graphs', 'da7'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/metadata-taxonomy',
-                component: ComponentCreator('/portfolio/metadata-taxonomy', '9da'),
+                component: ComponentCreator('/portfolio/metadata-taxonomy', '7cf'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/projects-showcase',
-                component: ComponentCreator('/portfolio/projects-showcase', '813'),
+                component: ComponentCreator('/portfolio/projects-showcase', '4d3'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/resume',
-                component: ComponentCreator('/portfolio/resume', 'ecf'),
+                component: ComponentCreator('/portfolio/resume', 'fba'),
                 exact: true
               },
               {
                 path: '/portfolio/search-optimization-ai',
-                component: ComponentCreator('/portfolio/search-optimization-ai', 'ed1'),
+                component: ComponentCreator('/portfolio/search-optimization-ai', '9b0'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/search-patterns',
-                component: ComponentCreator('/portfolio/search-patterns', '458'),
+                component: ComponentCreator('/portfolio/search-patterns', '4d7'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/seo-optimization',
-                component: ComponentCreator('/portfolio/seo-optimization', '70d'),
+                component: ComponentCreator('/portfolio/seo-optimization', 'c5c'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/site-architecture-design',
-                component: ComponentCreator('/portfolio/site-architecture-design', 'd9d'),
+                component: ComponentCreator('/portfolio/site-architecture-design', '09c'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/style-guides',
-                component: ComponentCreator('/portfolio/style-guides', 'a90'),
+                component: ComponentCreator('/portfolio/style-guides', '1c7'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               },
               {
                 path: '/portfolio/user-journey-analysis',
-                component: ComponentCreator('/portfolio/user-journey-analysis', 'bce'),
+                component: ComponentCreator('/portfolio/user-journey-analysis', '8a0'),
                 exact: true,
                 sidebar: "portfolioSidebar"
               }
